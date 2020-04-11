@@ -1,0 +1,496 @@
+[03:33:16] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[03:33:16] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[03:33:16] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[03:33:16] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2838 for Minecraft 1.12.2 loading
+[03:33:16] [main/INFO] [FML]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_241, running on Windows 10:amd64:10.0, installed at C:\Program Files\Java\jre1.8.0_241
+[03:33:16] [main/INFO] [FML]: Searching C:\Users\iljaf\AppData\Roaming\.minecraft\mods for mods
+[03:33:17] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in CreativeCore_v1.10.4_mc1.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[03:33:17] [main/WARN] [FML]: The coremod com.creativemd.creativecore.core.CreativePatchingLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[03:33:17] [main/WARN] [FML]: The coremod CreativePatchingLoader (com.creativemd.creativecore.core.CreativePatchingLoader) is not signed!
+[03:33:17] [main/WARN] [FML]: The coremod com.creativemd.itemphysic.ItemPatchingLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[03:33:17] [main/WARN] [FML]: The coremod ItemPatchingLoader (com.creativemd.itemphysic.ItemPatchingLoader) is not signed!
+[03:33:17] [main/WARN] [FML]: The coremod blusunrize.immersiveengineering.common.asm.IELoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[03:33:17] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[03:33:17] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[03:33:17] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[03:33:17] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[03:33:17] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[03:33:19] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[03:33:19] [main/INFO] [FML]: Found valid fingerprint for Minecraft. Certificate fingerprint cd99959656f753dc28d863b46769f7f8fbaefcfc
+[03:33:19] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[03:33:19] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[03:33:20] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[03:33:20] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[03:33:20] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[03:33:20] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[03:33:20] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[03:33:20] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.client.main.Main}
+[03:33:21] [main/INFO] [STDOUT]: [com.creativemd.creativecore.transformer.CreativeTransformer:transform:49]: [itemphysic] Patched net.minecraft.client.entity.EntityPlayerSP ...
+[03:33:22] [Client thread/INFO] [net.minecraft.client.Minecraft]: Setting user: ILYXA
+[03:33:23] [Client thread/INFO] [STDOUT]: [com.creativemd.creativecore.transformer.CreativeTransformer:transform:49]: [itemphysic] Patched net.minecraft.entity.item.EntityItem ...
+[03:33:23] [Client thread/INFO] [STDOUT]: [com.creativemd.creativecore.transformer.CreativeTransformer:transform:49]: [itemphysic] Patched net.minecraft.entity.item.EntityItem ...
+[03:33:29] [Client thread/WARN] [net.minecraft.client.settings.GameSettings]: Skipping bad option: lastServer:
+[03:33:29] [Client thread/INFO] [net.minecraft.client.Minecraft]: LWJGL Version: 2.9.4
+[03:33:30] [Client thread/INFO] [FML]: -- System Details --
+Details:
+	Minecraft Version: 1.12.2
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 1.8.0_241, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 88820160 bytes (84 MB) / 301989888 bytes (288 MB) up to 3858759680 bytes (3680 MB)
+	JVM Flags: 8 total; -Xmn128M -Xmx3674M -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: 
+	Loaded coremods (and transformers): 
+CreativePatchingLoader (CreativeCore_v1.10.4_mc1.12.2.jar)
+  
+ItemPatchingLoader (ItemPhysic_Full_1.4.32_mc1.12.2.jar)
+  com.creativemd.itemphysic.ItemTransformer
+IELoadingPlugin (ImmersiveEngineering-core-0.12-92.jar)
+  blusunrize.immersiveengineering.common.asm.IEClassTransformer
+	GL info: ' Vendor: 'NVIDIA Corporation' Version: '4.6.0 NVIDIA 445.75' Renderer: 'GeForce GTX 970/PCIe/SSE2'
+[03:33:30] [Client thread/INFO] [FML]: MinecraftForge v14.23.5.2838 Initialized
+[03:33:30] [Client thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[03:33:30] [Client thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[03:33:30] [Client thread/INFO] [FML]: Replaced 1227 ore ingredients
+[03:33:31] [Client thread/INFO] [FML]: Searching C:\Users\iljaf\AppData\Roaming\.minecraft\mods for mods
+[03:33:33] [Thread-3/INFO] [FML]: Using sync timing. 200 frames of Display.update took 187095325 nanos
+[03:33:33] [Client thread/WARN] [FML]: Mod immersiveposts is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 0.1.5
+[03:33:35] [Client thread/INFO] [FML]: Forge Mod Loader has identified 23 mods to load
+[03:33:35] [Client thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, creativecoredummy, itemphysic, advanced_machines, ae2stuff, appliedenergistics2, bdlib, creativecore, engineersdoors, ieclochecompat, immersivecables, immersivepetroleum, immersiveposts, immersivetech, ic2, journeymap, mekanism, mtlib, treechopper, immersiveengineering] at CLIENT
+[03:33:35] [Client thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, creativecoredummy, itemphysic, advanced_machines, ae2stuff, appliedenergistics2, bdlib, creativecore, engineersdoors, ieclochecompat, immersivecables, immersivepetroleum, immersiveposts, immersivetech, ic2, journeymap, mekanism, mtlib, treechopper, immersiveengineering] at SERVER
+[03:33:37] [Client thread/INFO] [STDOUT]: [com.creativemd.creativecore.transformer.CreativeTransformer:transform:49]: [itemphysic] Patched net.minecraft.client.renderer.entity.RenderEntityItem ...
+[03:33:41] [Client thread/INFO] [net.minecraft.client.resources.SimpleReloadableResourceManager]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Advanced Machines, FMLFileResourcePack:AE2 Stuff, FMLFileResourcePack:Applied Energistics 2, FMLFileResourcePack:BD Lib, FMLFileResourcePack:CreativeCore, FMLFileResourcePack:Engineer's Doors, FMLFileResourcePack:IE Cloche Compat, FMLFileResourcePack:Immersive Cables, FMLFileResourcePack:Immersive Petroleum, FMLFileResourcePack:Immersive Posts, FMLFileResourcePack:Immersive Tech, FMLFileResourcePack:IndustrialCraft 2, FMLFileResourcePack:JourneyMap, FMLFileResourcePack:Mekanism, FMLFileResourcePack:MTLib, FMLFileResourcePack:Tree Chopper, FMLFileResourcePack:Immersive Engineering
+[03:33:41] [Client thread/INFO] [FML]: Processing ObjectHolder annotations
+[03:33:41] [Client thread/INFO] [FML]: Found 1223 ObjectHolder annotations
+[03:33:41] [Client thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[03:33:41] [Client thread/INFO] [FML]: Found 0 ItemStackHolder annotations
+[03:33:41] [Client thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[03:33:41] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[03:33:42] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: OUTDATED Target: 14.23.5.2847
+[03:33:42] [Forge Version Check/INFO] [forge.VersionCheck]: [immersiveengineering] Starting version check at https://raw.githubusercontent.com/BluSunrize/ImmersiveEngineering/master/changelog.json
+[03:33:43] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `advanced_machines` for name `rotary_macerator`, expected `ic2`. This could be a intended override, but in most cases indicates a broken mod.
+[03:33:43] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `advanced_machines` for name `singularity_compressor`, expected `ic2`. This could be a intended override, but in most cases indicates a broken mod.
+[03:33:43] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `advanced_machines` for name `centrifuge_extractor`, expected `ic2`. This could be a intended override, but in most cases indicates a broken mod.
+[03:33:43] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `advanced_machines` for name `compacting_recycler`, expected `ic2`. This could be a intended override, but in most cases indicates a broken mod.
+[03:33:43] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `advanced_machines` for name `liquescent_extruder`, expected `ic2`. This could be a intended override, but in most cases indicates a broken mod.
+[03:33:43] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `advanced_machines` for name `impellerized_roller`, expected `ic2`. This could be a intended override, but in most cases indicates a broken mod.
+[03:33:43] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `advanced_machines` for name `water_jet_cutter`, expected `ic2`. This could be a intended override, but in most cases indicates a broken mod.
+[03:33:43] [Client thread/WARN] [FML]: Potentially Dangerous alternative prefix `advanced_machines` for name `thermal_washer`, expected `ic2`. This could be a intended override, but in most cases indicates a broken mod.
+[03:33:44] [Forge Version Check/INFO] [forge.VersionCheck]: [immersiveengineering] Found status: UP_TO_DATE Target: null
+[03:33:44] [Forge Version Check/INFO] [forge.VersionCheck]: [ieclochecompat] Starting version check at https://raw.githubusercontent.com/NicJames2378/IEClocheCompat/master/src/main/resources/updater.json
+[03:33:44] [Forge Version Check/INFO] [forge.VersionCheck]: [ieclochecompat] Found status: AHEAD Target: null
+[03:33:44] [Forge Version Check/INFO] [forge.VersionCheck]: [immersiveposts] Starting version check at https://raw.githubusercontent.com/TwistedGate/ImmersivePosts/master/change.json
+[03:33:44] [Forge Version Check/INFO] [forge.VersionCheck]: [immersiveposts] Found status: UP_TO_DATE Target: null
+[03:33:55] [Client thread/INFO] [ic2.Recipe]: Successfully loaded 352 out of 352 recipes for shaped recipes
+[03:33:55] [Client thread/INFO] [ic2.Recipe]: Successfully loaded 79 out of 79 recipes for shapeless recipes
+[03:33:55] [Client thread/INFO] [ic2.Recipe]: Successfully loaded 41 out of 41 recipes for solid uu recipes
+[03:33:55] [Client thread/INFO] [ic2.Recipe]: Successfully loaded 27 out of 27 recipes for furnace recipes
+[03:33:55] [Client thread/INFO] [ic2.Recipe]: Successfully loaded 5 out of 5 recipes for blast furnace recipes
+[03:33:55] [Client thread/INFO] [ic2.Recipe]: Successfully loaded 14 out of 14 recipes for block cutter recipes
+[03:33:55] [Client thread/INFO] [ic2.Recipe]: Successfully loaded 51 out of 51 recipes for compressor recipes
+[03:33:55] [Client thread/INFO] [ic2.Recipe]: Successfully loaded 13 out of 13 recipes for extractor recipes
+[03:33:55] [Client thread/INFO] [ic2.Recipe]: Successfully loaded 86 out of 86 recipes for macerator recipes
+[03:33:55] [Client thread/INFO] [ic2.Recipe]: Successfully loaded 5 out of 5 recipes for metal former cutting recipes
+[03:33:55] [Client thread/INFO] [ic2.Recipe]: Successfully loaded 10 out of 10 recipes for metal former extruding recipes
+[03:33:55] [Client thread/INFO] [ic2.Recipe]: Successfully loaded 14 out of 14 recipes for metal former rolling recipes
+[03:33:55] [Client thread/INFO] [ic2.Recipe]: Successfully loaded 8 out of 8 recipes for ore washing recipes
+[03:33:55] [Client thread/INFO] [ic2.Recipe]: Successfully loaded 26 out of 26 recipes for thermal centrifuge recipes
+[03:33:56] [Client thread/WARN] [ic2.Item]: The item tritium_fuel_rod is not initialized.
+[03:33:56] [Client thread/WARN] [ic2.Item]: The item plasma_launcher is not initialized.
+[03:33:56] [Client thread/WARN] [ic2.Item]: The item item_pipe is not initialized.
+[03:33:56] [Client thread/WARN] [ic2.Item]: The item extractor_cover is not initialized.
+[03:33:56] [Client thread/WARN] [ic2.Item]: The item ingot2 is not initialized.
+[03:33:56] [Client thread/WARN] [ic2.Item]: The item test_pick is not initialized.
+[03:33:56] [Client thread/WARN] [ic2.Block]: The fluid deuterium is not initialized.
+[03:33:56] [Client thread/WARN] [ic2.Block]: The fluid molten_brass is not initialized.
+[03:33:56] [Client thread/WARN] [ic2.Block]: The fluid molten_bronze is not initialized.
+[03:33:56] [Client thread/WARN] [ic2.Block]: The fluid molten_copper is not initialized.
+[03:33:56] [Client thread/WARN] [ic2.Block]: The fluid molten_gold is not initialized.
+[03:33:56] [Client thread/WARN] [ic2.Block]: The fluid molten_iron is not initialized.
+[03:33:56] [Client thread/WARN] [ic2.Block]: The fluid molten_lead is not initialized.
+[03:33:56] [Client thread/WARN] [ic2.Block]: The fluid molten_silver is not initialized.
+[03:33:56] [Client thread/WARN] [ic2.Block]: The fluid molten_steel is not initialized.
+[03:33:56] [Client thread/WARN] [ic2.Block]: The fluid molten_tin is not initialized.
+[03:33:56] [Client thread/WARN] [ic2.Block]: The fluid molten_zinc is not initialized.
+[03:33:56] [Client thread/INFO] [AE2:C]: Pre Initialization ( started )
+[03:34:00] [Client thread/INFO] [AE2:C]: Starting AE2 VersionChecker
+[03:34:00] [Client thread/INFO] [AE2:C]: Pre Initialization ( ended after 3605ms )
+[03:34:00] [AE2 VersionChecker/INFO] [AE2:C]: Last check was just recently.
+[03:34:00] [AE2 VersionChecker/INFO] [AE2:C]: Stopping AE2 VersionChecker
+[03:34:00] [Client thread/INFO] [bdlib]: bdlib 1.14.3.12 loaded
+[03:34:00] [Client thread/INFO] [bdlib]: Initialized network channel 'bdew.multiblock' for mod 'bdlib'
+[03:34:00] [Client thread/INFO] [bdlib]: Loading internal config files for mod AE2 Stuff
+[03:34:00] [Client thread/INFO] [bdlib]: Loading config: jar:file:/C:/Users/iljaf/AppData/Roaming/.minecraft/mods/ae2stuff-0.7.0.4-mc1.12.2.jar!/assets/ae2stuff/config/tuning.cfg
+[03:34:01] [Client thread/INFO] [bdlib]: Loading config: jar:file:/C:/Users/iljaf/AppData/Roaming/.minecraft/mods/ae2stuff-0.7.0.4-mc1.12.2.jar!/assets/ae2stuff/config/recipes.cfg
+[03:34:01] [Client thread/INFO] [bdlib]: Loading user config files for mod AE2 Stuff
+[03:34:01] [Client thread/INFO] [bdlib]: Config loading for mod AE2 Stuff finished
+[03:34:01] [Client thread/INFO] [bdlib]: Loaded creative tabs for ae2stuff
+[03:34:03] [Client thread/INFO] [FML]: OBJLoader: Domain immersiveengineering has been added.
+[03:34:03] [Client thread/INFO] [immersiveengineering]: Custom OBJLoader: Domain has been added: immersiveengineering
+[03:34:03] [Client thread/INFO] [engineersdoors]: Pre-initializing doors module
+[03:34:03] [Client thread/INFO] [engineersdoors]: Pre-initializing fence gates module
+[03:34:03] [Client thread/INFO] [engineersdoors]: Pre-initializing trapdoors module
+[03:34:03] [Immersive Engineering Contributors Thread/INFO] [immersiveengineering]: Attempting to download special revolvers from GitHub
+[03:34:03] [Client thread/ERROR] [FML]: Error registering event handler: FMLMod:immersivepetroleum{1.1.9} class blusunrize.immersiveengineering.api.MultiblockHandler$MultiblockFormEvent public void flaxbeard.immersivepetroleum.common.items.ItemProjector.handleMultiblockComplete(blusunrize.immersiveengineering.api.MultiblockHandler$MultiblockFormEvent)
+java.lang.InstantiationException: null
+	at sun.reflect.InstantiationExceptionConstructorAccessorImpl.newInstance(Unknown Source) ~[?:1.8.0_241]
+	at java.lang.reflect.Constructor.newInstance(Unknown Source) ~[?:1.8.0_241]
+	at net.minecraftforge.fml.common.eventhandler.EventBus.register(EventBus.java:130) [EventBus.class:?]
+	at net.minecraftforge.fml.common.eventhandler.EventBus.register(EventBus.java:112) [EventBus.class:?]
+	at flaxbeard.immersivepetroleum.common.items.ItemProjector.<init>(ItemProjector.java:73) [ItemProjector.class:?]
+	at flaxbeard.immersivepetroleum.common.IPContent.preInit(IPContent.java:146) [IPContent.class:?]
+	at flaxbeard.immersivepetroleum.ImmersivePetroleum.preInit(ImmersivePetroleum.java:55) [ImmersivePetroleum.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_241]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_241]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_241]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_241]
+	at net.minecraftforge.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:637) [FMLModContainer.class:?]
+	at sun.reflect.GeneratedMethodAccessor8.invoke(Unknown Source) ~[?:?]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_241]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_241]
+	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76) [guava-21.0.jar:?]
+	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116) [guava-21.0.jar:?]
+	at com.google.common.eventbus.EventBus.post(EventBus.java:217) [guava-21.0.jar:?]
+	at net.minecraftforge.fml.common.LoadController.sendEventToModContainer(LoadController.java:219) [LoadController.class:?]
+	at net.minecraftforge.fml.common.LoadController.propogateStateMessage(LoadController.java:197) [LoadController.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_241]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_241]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_241]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_241]
+	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76) [guava-21.0.jar:?]
+	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116) [guava-21.0.jar:?]
+	at com.google.common.eventbus.EventBus.post(EventBus.java:217) [guava-21.0.jar:?]
+	at net.minecraftforge.fml.common.LoadController.distributeStateMessage(LoadController.java:136) [LoadController.class:?]
+	at net.minecraftforge.fml.common.Loader.preinitializeMods(Loader.java:627) [Loader.class:?]
+	at net.minecraftforge.fml.client.FMLClientHandler.beginMinecraftLoading(FMLClientHandler.java:252) [FMLClientHandler.class:?]
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:467) [bib.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378) [bib.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_241]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_241]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_241]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_241]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+[03:34:03] [Client thread/INFO] [FML]: OBJLoader: Domain immersiveposts has been added.
+[03:34:04] [Client thread/INFO] [FML]: OBJLoader: Domain immersivetech has been added.
+[03:34:04] [Client thread/INFO] [immersiveengineering]: Custom OBJLoader: Domain has been added: immersivetech
+[03:34:04] [Client thread/ERROR] [immersiveengineering]: WireType#init was called by Immersive Tech (immersivetech)!
+[03:34:04] [Client thread/ERROR] [immersiveengineering]: The method should only be called by Immersive Engineering, calls from other mods will cause many hard-to-debug issues and are therefore forbidden!
+[03:34:04] [Client thread/ERROR] [immersiveengineering]: Please report this as a bug to Immersive Tech
+[03:34:04] [Client thread/INFO] [journeymap]: No plugins for JourneyMap API discovered.
+[03:34:04] [Client thread/INFO] [Mekanism]: Didn't detect MCMP, ignoring compatibility package
+[03:34:11] [Client thread/INFO] [FML]: Applying holder lookups
+[03:34:11] [Client thread/INFO] [FML]: Holder lookups applied
+[03:34:11] [Client thread/INFO] [FML]: Applying holder lookups
+[03:34:11] [Client thread/INFO] [FML]: Holder lookups applied
+[03:34:11] [Client thread/INFO] [FML]: Applying holder lookups
+[03:34:11] [Client thread/INFO] [FML]: Holder lookups applied
+[03:34:11] [Client thread/INFO] [FML]: OBJLoader: Domain mekanism has been added.
+[03:34:11] [Client thread/INFO] [FML]: Applying holder lookups
+[03:34:11] [Client thread/INFO] [FML]: Holder lookups applied
+[03:34:11] [Client thread/INFO] [FML]: Injecting itemstacks
+[03:34:11] [Client thread/INFO] [FML]: Itemstack injection complete
+[03:34:13] [Sound Library Loader/INFO] [net.minecraft.client.audio.SoundManager]: Starting up SoundSystem...
+[03:34:13] [Thread-7/INFO] [net.minecraft.client.audio.SoundManager]: Initializing LWJGL OpenAL
+[03:34:13] [Thread-7/INFO] [net.minecraft.client.audio.SoundManager]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[03:34:14] [Thread-7/INFO] [net.minecraft.client.audio.SoundManager]: OpenAL initialized.
+[03:34:14] [Sound Library Loader/INFO] [net.minecraft.client.audio.SoundManager]: Sound engine started
+[03:34:17] [Client thread/INFO] [FML]: OBJLoader.Parser: command 's' (model: 'immersivetech:models/block/metal_device/coke_oven_preheater.obj') is not currently supported, skipping. Line: 112 's 1'
+[03:34:27] [Client thread/INFO] [immersiveengineering]: Stitching Revolver Textures!
+[03:34:27] [Client thread/INFO] [FML]: Max texture size: 16384
+[03:34:32] [Client thread/INFO] [net.minecraft.client.renderer.texture.TextureMap]: Created: 4096x2048 textures-atlas
+[03:34:34] [Client thread/ERROR] [FML]: Exception loading model for variant immersivepetroleum:metal_multiblock#_0multiblockslave=true,_1dynamicrender=false,boolean0=true,facing=north,type=distillation_tower_parent
+net.minecraftforge.client.model.ModelLoaderRegistry$LoaderException: Exception loading model immersivepetroleum:metal_multiblock#_0multiblockslave=true,_1dynamicrender=false,boolean0=true,facing=north,type=distillation_tower_parent with loader VariantLoader.INSTANCE, skipping
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:161) ~[ModelLoaderRegistry.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177569_a(ModelLoader.java:235) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.loadBlock(ModelBakery.java:153) ~[cgb.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_188640_b(ModelLoader.java:223) ~[ModelLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177570_a(ModelLoader.java:150) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelManager.func_110549_a(ModelManager.java:28) [cgc.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110542_a(SimpleReloadableResourceManager.java:121) [cev.class:?]
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:513) [bib.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378) [bib.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_241]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_241]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_241]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_241]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+Caused by: net.minecraftforge.client.model.ModelLoaderRegistry$LoaderException: Exception loading model minecraft:block/cube-all with loader VanillaLoader.INSTANCE, skipping
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:161) ~[ModelLoaderRegistry.class:?]
+	at net.minecraftforge.client.model.ModelLoader$WeightedRandomModel.<init>(ModelLoader.java:658) ~[ModelLoader$WeightedRandomModel.class:?]
+	at net.minecraftforge.client.model.ModelLoader$VariantLoader.loadModel(ModelLoader.java:1176) ~[ModelLoader$VariantLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:157) ~[ModelLoaderRegistry.class:?]
+	... 15 more
+Caused by: java.io.FileNotFoundException: minecraft:models/block/cube-all.json
+	at net.minecraft.client.resources.FallbackResourceManager.func_110536_a(FallbackResourceManager.java:69) ~[cei.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110536_a(SimpleReloadableResourceManager.java:65) ~[cev.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.func_177594_c(ModelBakery.java:334) ~[cgb.class:?]
+	at net.minecraftforge.client.model.ModelLoader.access$1400(ModelLoader.java:115) ~[ModelLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoader$VanillaLoader.loadModel(ModelLoader.java:861) ~[ModelLoader$VanillaLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:157) ~[ModelLoaderRegistry.class:?]
+	at net.minecraftforge.client.model.ModelLoader$WeightedRandomModel.<init>(ModelLoader.java:658) ~[ModelLoader$WeightedRandomModel.class:?]
+	at net.minecraftforge.client.model.ModelLoader$VariantLoader.loadModel(ModelLoader.java:1176) ~[ModelLoader$VariantLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:157) ~[ModelLoaderRegistry.class:?]
+	... 15 more
+[03:34:34] [Client thread/ERROR] [FML]: Exception loading model for variant immersivepetroleum:metal_multiblock#_0multiblockslave=true,_1dynamicrender=true,boolean0=false,facing=east,type=distillation_tower
+net.minecraftforge.client.model.ModelLoaderRegistry$LoaderException: Exception loading model immersivepetroleum:metal_multiblock#_0multiblockslave=true,_1dynamicrender=true,boolean0=false,facing=east,type=distillation_tower with loader VariantLoader.INSTANCE, skipping
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:161) ~[ModelLoaderRegistry.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177569_a(ModelLoader.java:235) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.loadBlock(ModelBakery.java:153) ~[cgb.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_188640_b(ModelLoader.java:223) ~[ModelLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177570_a(ModelLoader.java:150) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelManager.func_110549_a(ModelManager.java:28) [cgc.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110542_a(SimpleReloadableResourceManager.java:121) [cev.class:?]
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:513) [bib.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378) [bib.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_241]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_241]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_241]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_241]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+Caused by: net.minecraftforge.client.model.ModelLoaderRegistry$LoaderException: Exception loading model minecraft:block/cube-all with loader VanillaLoader.INSTANCE, skipping
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:161) ~[ModelLoaderRegistry.class:?]
+	at net.minecraftforge.client.model.ModelLoader$WeightedRandomModel.<init>(ModelLoader.java:658) ~[ModelLoader$WeightedRandomModel.class:?]
+	at net.minecraftforge.client.model.ModelLoader$VariantLoader.loadModel(ModelLoader.java:1176) ~[ModelLoader$VariantLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:157) ~[ModelLoaderRegistry.class:?]
+	... 15 more
+Caused by: java.io.FileNotFoundException: minecraft:models/block/cube-all.json
+	at net.minecraft.client.resources.FallbackResourceManager.func_110536_a(FallbackResourceManager.java:69) ~[cei.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110536_a(SimpleReloadableResourceManager.java:65) ~[cev.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.func_177594_c(ModelBakery.java:334) ~[cgb.class:?]
+	at net.minecraftforge.client.model.ModelLoader.access$1400(ModelLoader.java:115) ~[ModelLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoader$VanillaLoader.loadModel(ModelLoader.java:861) ~[ModelLoader$VanillaLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:157) ~[ModelLoaderRegistry.class:?]
+	at net.minecraftforge.client.model.ModelLoader$WeightedRandomModel.<init>(ModelLoader.java:658) ~[ModelLoader$WeightedRandomModel.class:?]
+	at net.minecraftforge.client.model.ModelLoader$VariantLoader.loadModel(ModelLoader.java:1176) ~[ModelLoader$VariantLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:157) ~[ModelLoaderRegistry.class:?]
+	... 15 more
+[03:34:34] [Client thread/ERROR] [FML]: Exception loading model for variant immersivepetroleum:metal_device#_0multiblockslave=true,facing=south,type=automatic_lubricator
+net.minecraftforge.client.model.ModelLoaderRegistry$LoaderException: Exception loading model immersivepetroleum:metal_device#_0multiblockslave=true,facing=south,type=automatic_lubricator with loader VariantLoader.INSTANCE, skipping
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:161) ~[ModelLoaderRegistry.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177569_a(ModelLoader.java:235) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.loadBlock(ModelBakery.java:153) ~[cgb.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_188640_b(ModelLoader.java:223) ~[ModelLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177570_a(ModelLoader.java:150) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelManager.func_110549_a(ModelManager.java:28) [cgc.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110542_a(SimpleReloadableResourceManager.java:121) [cev.class:?]
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:513) [bib.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378) [bib.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_241]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_241]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_241]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_241]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+Caused by: net.minecraftforge.client.model.ModelLoaderRegistry$LoaderException: Exception loading model immersiveengineering:block/iesixsides with loader VanillaLoader.INSTANCE, skipping
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:161) ~[ModelLoaderRegistry.class:?]
+	at net.minecraftforge.client.model.ModelLoader$WeightedRandomModel.<init>(ModelLoader.java:658) ~[ModelLoader$WeightedRandomModel.class:?]
+	at net.minecraftforge.client.model.ModelLoader$VariantLoader.loadModel(ModelLoader.java:1176) ~[ModelLoader$VariantLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:157) ~[ModelLoaderRegistry.class:?]
+	... 15 more
+Caused by: java.io.FileNotFoundException: immersiveengineering:models/block/iesixsides.json
+	at net.minecraft.client.resources.FallbackResourceManager.func_110536_a(FallbackResourceManager.java:69) ~[cei.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110536_a(SimpleReloadableResourceManager.java:65) ~[cev.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.func_177594_c(ModelBakery.java:334) ~[cgb.class:?]
+	at net.minecraftforge.client.model.ModelLoader.access$1400(ModelLoader.java:115) ~[ModelLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoader$VanillaLoader.loadModel(ModelLoader.java:861) ~[ModelLoader$VanillaLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:157) ~[ModelLoaderRegistry.class:?]
+	at net.minecraftforge.client.model.ModelLoader$WeightedRandomModel.<init>(ModelLoader.java:658) ~[ModelLoader$WeightedRandomModel.class:?]
+	at net.minecraftforge.client.model.ModelLoader$VariantLoader.loadModel(ModelLoader.java:1176) ~[ModelLoader$VariantLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:157) ~[ModelLoaderRegistry.class:?]
+	... 15 more
+[03:34:34] [Client thread/ERROR] [FML]: Exception loading model for variant immersivepetroleum:metal_multiblock#_0multiblockslave=true,_1dynamicrender=true,boolean0=false,facing=north,type=pumpjack_parent
+net.minecraftforge.client.model.ModelLoaderRegistry$LoaderException: Exception loading model immersivepetroleum:metal_multiblock#_0multiblockslave=true,_1dynamicrender=true,boolean0=false,facing=north,type=pumpjack_parent with loader VariantLoader.INSTANCE, skipping
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:161) ~[ModelLoaderRegistry.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177569_a(ModelLoader.java:235) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.loadBlock(ModelBakery.java:153) ~[cgb.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_188640_b(ModelLoader.java:223) ~[ModelLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177570_a(ModelLoader.java:150) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelManager.func_110549_a(ModelManager.java:28) [cgc.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110542_a(SimpleReloadableResourceManager.java:121) [cev.class:?]
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:513) [bib.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378) [bib.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_241]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_241]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_241]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_241]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+Caused by: net.minecraftforge.client.model.ModelLoaderRegistry$LoaderException: Exception loading model minecraft:block/cube-all with loader VanillaLoader.INSTANCE, skipping
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:161) ~[ModelLoaderRegistry.class:?]
+	at net.minecraftforge.client.model.ModelLoader$WeightedRandomModel.<init>(ModelLoader.java:658) ~[ModelLoader$WeightedRandomModel.class:?]
+	at net.minecraftforge.client.model.ModelLoader$VariantLoader.loadModel(ModelLoader.java:1176) ~[ModelLoader$VariantLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:157) ~[ModelLoaderRegistry.class:?]
+	... 15 more
+Caused by: java.io.FileNotFoundException: minecraft:models/block/cube-all.json
+	at net.minecraft.client.resources.FallbackResourceManager.func_110536_a(FallbackResourceManager.java:69) ~[cei.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110536_a(SimpleReloadableResourceManager.java:65) ~[cev.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.func_177594_c(ModelBakery.java:334) ~[cgb.class:?]
+	at net.minecraftforge.client.model.ModelLoader.access$1400(ModelLoader.java:115) ~[ModelLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoader$VanillaLoader.loadModel(ModelLoader.java:861) ~[ModelLoader$VanillaLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:157) ~[ModelLoaderRegistry.class:?]
+	at net.minecraftforge.client.model.ModelLoader$WeightedRandomModel.<init>(ModelLoader.java:658) ~[ModelLoader$WeightedRandomModel.class:?]
+	at net.minecraftforge.client.model.ModelLoader$VariantLoader.loadModel(ModelLoader.java:1176) ~[ModelLoader$VariantLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:157) ~[ModelLoaderRegistry.class:?]
+	... 15 more
+[03:34:34] [Client thread/FATAL] [FML]: Suppressed additional 139 model loading errors for domain immersivepetroleum
+[03:34:36] [Client thread/INFO] [FML]: Ignored smelting recipe with conflicting input: 1xic2.dust@8 = 1xitem.ingotIron@0
+[03:34:36] [Client thread/INFO] [FML]: Ignored smelting recipe with conflicting input: 1xic2.dust@7 = 1xitem.ingotGold@0
+[03:34:36] [Client thread/INFO] [FML]: Ignored smelting recipe with conflicting input: 1xitem.immersiveengineering.metal@18 = 1xitem.ingotIron@0
+[03:34:36] [Client thread/INFO] [FML]: Ignored smelting recipe with conflicting input: 1xitem.immersiveengineering.metal@19 = 1xitem.ingotGold@0
+[03:34:36] [Client thread/INFO] [immersiveposts]: Registering Recipes.
+[03:34:36] [Client thread/INFO] [FML]: Applying holder lookups
+[03:34:36] [Client thread/INFO] [FML]: Holder lookups applied
+[03:34:37] [Client thread/INFO] [advanced_machines]: Successfully loaded 0 out of 0 recipes for rotary macerator recipes
+[03:34:37] [Client thread/INFO] [advanced_machines]: Successfully loaded 0 out of 0 recipes for singularity compressor recipes
+[03:34:37] [Client thread/INFO] [advanced_machines]: Successfully loaded 0 out of 0 recipes for centrifuge extractor recipes
+[03:34:37] [Client thread/INFO] [advanced_machines]: Successfully loaded 1 out of 1 recipes for compacting recycler recipes
+[03:34:37] [Client thread/INFO] [advanced_machines]: Successfully loaded 0 out of 0 recipes for liquescent extruder recipes
+[03:34:37] [Client thread/INFO] [advanced_machines]: Successfully loaded 0 out of 0 recipes for impellerized roller recipes
+[03:34:37] [Client thread/INFO] [advanced_machines]: Successfully loaded 0 out of 0 recipes for water jet cutter recipes
+[03:34:37] [Client thread/INFO] [advanced_machines]: Successfully loaded 0 out of 0 recipes for thermal washer recipes
+[03:34:37] [Client thread/INFO] [AE2:C]: Initialization ( started )
+[03:34:37] [Client thread/INFO] [AE2:C]: Starting AE2 CSV Export
+[03:34:37] [AE2 CSV Export/INFO] [AE2:C]: Cache is enabled. Checking for new mod configurations.
+[03:34:37] [AE2 CSV Export/INFO] [AE2:C]: Same mod configuration was found. Not updating CSV content.
+[03:34:37] [Client thread/INFO] [AE2:C]: Initialization ( ended after 197ms )
+[03:34:37] [Client thread/INFO] [bdlib]: Adding delayed color handlers
+[03:34:37] [Client thread/INFO] [bdlib]: Initialized network channel 'bdew.ae2stuff' for mod 'ae2stuff'
+[03:34:37] [Client thread/INFO] [ieclochecompat]: Mod is running CLIENT SIDE!
+[03:34:37] [Thread-10/INFO] [immersiveengineering]: Arc Recycling: Removed 0 old recipes
+[03:34:37] [Thread-10/INFO] [immersiveengineering]: Finished recipe profiler for Arc Recycling, took 38 milliseconds
+[03:34:38] [Client thread/INFO] [engineersdoors]: Initializing doors module
+[03:34:38] [Client thread/INFO] [engineersdoors]: Overwriting door generation in IE village engineer's house (IEVEH)
+[03:34:38] [Client thread/INFO] [engineersdoors]: Demapped base IEVEH in VillagerRegistry
+[03:34:38] [Client thread/INFO] [engineersdoors]: Registered modified IEVEH in VillagerRegistry
+[03:34:38] [Client thread/INFO] [engineersdoors]: Demapped base IEVEH from NtC map in MapGenStructureIO
+[03:34:38] [Client thread/INFO] [engineersdoors]: Demapped base IEVEH from CtN map in MapGenStructureIO
+[03:34:38] [Client thread/INFO] [engineersdoors]: Registered modified IEVEH in MapGenStructureIO
+[03:34:38] [Client thread/INFO] [engineersdoors]: Initializing fence gates module
+[03:34:38] [Client thread/INFO] [engineersdoors]: Initializing trapdoors module
+[03:34:38] [Client thread/INFO] [STDOUT]: [flaxbeard.immersivepetroleum.common.Config:addConfigReservoirs:689]: aquifer, water, 5000000, 10000000, 6, 30, [], [0], [], []
+[03:34:38] [Client thread/INFO] [STDOUT]: [flaxbeard.immersivepetroleum.common.Config:addConfigReservoirs:720]: Added resevoir type aquifer
+[03:34:38] [Client thread/INFO] [STDOUT]: [flaxbeard.immersivepetroleum.common.Config:addConfigReservoirs:689]: oil, oil, 2500000, 15000000, 6, 40, [1], [], [], []
+[03:34:38] [Client thread/INFO] [STDOUT]: [flaxbeard.immersivepetroleum.common.Config:addConfigReservoirs:720]: Added resevoir type oil
+[03:34:38] [Client thread/INFO] [STDOUT]: [flaxbeard.immersivepetroleum.common.Config:addConfigReservoirs:689]: lava, lava, 250000, 1000000, 0, 30, [1], [], [], []
+[03:34:38] [Client thread/INFO] [STDOUT]: [flaxbeard.immersivepetroleum.common.Config:addConfigReservoirs:720]: Added resevoir type lava
+[03:34:38] [Client thread/INFO] [STDOUT]: [flaxbeard.immersivepetroleum.common.Config:addDistillationRecipe:376]: Added distillation recipe using oil
+[03:34:38] [Client thread/INFO] [STDOUT]: [flaxbeard.immersivepetroleum.common.Config:addDistillationRecipe:378]: Битум
+[03:34:38] [Client thread/INFO] [journeymap]: JourneyMap log initialized.
+[03:34:38] [Client thread/INFO] [journeymap]: initialize ENTER
+[03:34:38] [Client thread/WARN] [journeymap]: core (Initialized) Bad configField entry during updateFrom(): optionsManagerViewed=null
+[03:34:38] [Client thread/WARN] [journeymap]: core (Initialized) Bad configField entry during updateFrom(): splashViewed=null
+[03:34:39] [Client thread/INFO] [journeymap]: [ClientAPI] built with JourneyMap API 1.4
+[03:34:39] [Client thread/INFO] [journeymap]: Initializing plugins with Client API: journeymap.client.api.impl.ClientAPI
+[03:34:39] [Client thread/INFO] [journeymap]: initialize EXIT, elapsed count 0 avg ?ms
+[03:34:39] [Client thread/INFO] [Mekanism]: Version 9.6.4 initializing...
+[03:34:39] [Client thread/INFO] [FML]: Ignored smelting recipe with conflicting input: 1xitem.Dust@0 = 1xitem.ingotIron@0
+[03:34:39] [Client thread/INFO] [FML]: Ignored smelting recipe with conflicting input: 1xitem.Dust@1 = 1xitem.ingotGold@0
+[03:34:39] [Client thread/INFO] [Mekanism]: Initialized HolidayManager.
+[03:34:39] [Client thread/INFO] [Mekanism]: Loading complete.
+[03:34:39] [Client thread/INFO] [Mekanism]: Mod loaded.
+[03:34:39] [Client thread/INFO] [FML]: Injecting itemstacks
+[03:34:39] [Client thread/INFO] [FML]: Itemstack injection complete
+[03:34:39] [Client thread/WARN] [FML]: No types have been added to Biome appliedenergistics2:storage_biome, types have been assigned on a best-effort guess: [COLD, PLAINS]
+[03:34:39] [Client thread/INFO] [ic2.Uu]: Loading predefined UU world scan values, run /ic2 uu-world-scan <small|medium|large> to calibrate them for your world.
+[03:34:39] [Client thread/INFO] [ic2.General]: ic2 version 2.8.189-ex112 loaded.
+[03:34:39] [Client thread/INFO] [advanced_machines]: Advanced Machines 61.0.1 loaded.
+[03:34:39] [Client thread/INFO] [AE2:C]: Post Initialization ( started )
+[03:34:40] [Client thread/INFO] [AE2:C]: Industrial Craft 2 - Integration Enable
+[03:34:40] [Client thread/INFO] [AE2:C]: Railcraft - Integration Disabled
+[03:34:40] [Client thread/INFO] [AE2:C]: Mine Factory Reloaded - Integration Disabled
+[03:34:40] [Client thread/INFO] [AE2:C]: Waila - Integration Disabled
+[03:34:40] [Client thread/INFO] [AE2:C]: Inventory Tweaks - Integration Disabled
+[03:34:40] [Client thread/INFO] [AE2:C]: Just Enough Items - Integration Disabled
+[03:34:40] [Client thread/INFO] [AE2:C]: Mekanism - Integration Enable
+[03:34:40] [Client thread/INFO] [AE2:C]: OpenComputers - Integration Disabled
+[03:34:40] [Client thread/INFO] [AE2:C]: TheOneProbe - Integration Disabled
+[03:34:40] [Client thread/INFO] [AE2:C]: Tesla - Integration Disabled
+[03:34:40] [Client thread/INFO] [AE2:C]: CraftTweaker - Integration Disabled
+[03:34:40] [Client thread/INFO] [AE2:C]: Post Initialization ( ended after 703ms )
+[03:34:40] [Client thread/INFO] [immersiveengineering]: Couldn't fully analyze 1xic2.alloy_chestplate@32767, missing knowledge for {1xitem.chestplateCloth@32767=1.0}
+[03:34:40] [Client thread/INFO] [immersiveengineering]: Couldn't fully analyze 1xtile.immersiveengineering.metal_device1@10, missing knowledge for {1xtile.immersiveengineering.metal_device0@4=1.0}
+[03:34:41] [Client thread/INFO] [engineersdoors]: Post-initializing doors module
+[03:34:41] [Client thread/INFO] [engineersdoors]: Post-initializing fence gates module
+[03:34:41] [Client thread/INFO] [engineersdoors]: Post-initializing trapdoors module
+[03:34:41] [Client thread/INFO] [journeymap]: Added entity icons from journeymap:icon/entity. Success: false
+[03:34:42] [Client thread/INFO] [journeymap]: Preloaded theme textures: 73
+[03:34:42] [Client thread/INFO] [Mekanism]: Fake player readout: UUID = 46e82cd0-d480-3d48-800a-77431ede078e, name = [Mekanism]
+[03:34:42] [Client thread/INFO] [Mekanism]: Hooked into IC2 successfully.
+[03:34:42] [Client thread/INFO] [Mekanism]: Finished loading Cardboard Box blacklist (loaded 0 entries)
+[03:34:42] [Client thread/INFO] [Mekanism]: Hooking complete.
+[03:34:43] [Client thread/INFO] [FML]: Forge Mod Loader has successfully loaded 23 mods
+[03:34:43] [Client thread/WARN] [net.minecraft.client.settings.GameSettings]: Skipping bad option: lastServer:
+[03:34:43] [Client thread/INFO] [com.mojang.text2speech.NarratorWindows]: Narrator library for x64 successfully loaded
+[03:34:43] [Client thread/ERROR] [FML.TEXTURE_ERRORS]: +=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+[03:34:43] [Client thread/ERROR] [FML.TEXTURE_ERRORS]: The following texture errors were found.
+[03:34:43] [Client thread/ERROR] [FML.TEXTURE_ERRORS]: ==================================================
+[03:34:43] [Client thread/ERROR] [FML.TEXTURE_ERRORS]:   DOMAIN immersivetech
+[03:34:43] [Client thread/ERROR] [FML.TEXTURE_ERRORS]: --------------------------------------------------
+[03:34:43] [Client thread/ERROR] [FML.TEXTURE_ERRORS]:   domain immersivetech is missing 1 texture
+[03:34:43] [Client thread/ERROR] [FML.TEXTURE_ERRORS]:     domain immersivetech has 1 location:
+[03:34:43] [Client thread/ERROR] [FML.TEXTURE_ERRORS]:       unknown resourcepack type net.minecraft.client.resources.LegacyV2Adapter : FMLFileResourcePack:Immersive Tech
+[03:34:43] [Client thread/ERROR] [FML.TEXTURE_ERRORS]: -------------------------
+[03:34:43] [Client thread/ERROR] [FML.TEXTURE_ERRORS]:     The missing resources for domain immersivetech are:
+[03:34:43] [Client thread/ERROR] [FML.TEXTURE_ERRORS]:       textures/blocks/storage_steel.png
+[03:34:43] [Client thread/ERROR] [FML.TEXTURE_ERRORS]: -------------------------
+[03:34:43] [Client thread/ERROR] [FML.TEXTURE_ERRORS]:     No other errors exist for domain immersivetech
+[03:34:43] [Client thread/ERROR] [FML.TEXTURE_ERRORS]: ==================================================
+[03:34:43] [Client thread/ERROR] [FML.TEXTURE_ERRORS]: +=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+[03:34:44] [Realms Notification Availability checker #1/INFO] [com.mojang.realmsclient.client.RealmsClient]: Could not authorize you against Realms server: Invalid session id
+[03:34:48] [JM-VersionCheck-1/ERROR] [journeymap]: Could not check version URL
+org.apache.http.conn.ConnectTimeoutException: Connect to api.cfwidget.com:443 [api.cfwidget.com/167.99.23.151] failed: connect timed out
+	at org.apache.http.impl.conn.HttpClientConnectionOperator.connect(HttpClientConnectionOperator.java:132) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:314) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:363) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:219) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:195) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:86) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:108) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:186) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:82) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:106) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:57) ~[httpclient-4.3.3.jar:4.3.3]
+	at journeymap.common.version.VersionCheck$1.run(VersionCheck.java:131) [VersionCheck$1.class:1.12.2-5.7.0]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source) [?:1.8.0_241]
+	at java.util.concurrent.FutureTask.run(Unknown Source) [?:1.8.0_241]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_241]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_241]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_241]
+Caused by: java.net.SocketTimeoutException: connect timed out
+	at java.net.TwoStacksPlainSocketImpl.socketConnect(Native Method) ~[?:1.8.0_241]
+	at java.net.AbstractPlainSocketImpl.doConnect(Unknown Source) ~[?:1.8.0_241]
+	at java.net.AbstractPlainSocketImpl.connectToAddress(Unknown Source) ~[?:1.8.0_241]
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source) ~[?:1.8.0_241]
+	at java.net.PlainSocketImpl.connect(Unknown Source) ~[?:1.8.0_241]
+	at java.net.SocksSocketImpl.connect(Unknown Source) ~[?:1.8.0_241]
+	at java.net.Socket.connect(Unknown Source) ~[?:1.8.0_241]
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.connectSocket(SSLConnectionSocketFactory.java:239) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.conn.HttpClientConnectionOperator.connect(HttpClientConnectionOperator.java:117) ~[httpclient-4.3.3.jar:4.3.3]
+	... 16 more
+[03:35:21] [Netty Client IO #1/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, creativecoredummy, itemphysic, advanced_machines, ae2stuff, appliedenergistics2, bdlib, creativecore, engineersdoors, ieclochecompat, immersivecables, immersivepetroleum, immersiveposts, immersivetech, ic2, journeymap, mekanism, mtlib, treechopper, immersiveengineering] at SERVER
+[03:35:21] [Netty Client IO #3/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, creativecoredummy, itemphysic, advanced_machines, ae2stuff, appliedenergistics2, bdlib, creativecore, engineersdoors, ieclochecompat, immersivecables, immersivepetroleum, immersiveposts, immersivetech, ic2, journeymap, mekanism, mtlib, treechopper, immersiveengineering] at SERVER
+[03:35:21] [Netty Client IO #2/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, creativecoredummy, itemphysic, advanced_machines, ae2stuff, appliedenergistics2, bdlib, creativecore, engineersdoors, ieclochecompat, immersivecables, immersivepetroleum, immersiveposts, immersivetech, ic2, journeymap, mekanism, mtlib, treechopper, immersiveengineering] at SERVER
+[03:35:21] [Netty Client IO #0/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, creativecoredummy, itemphysic, advanced_machines, ae2stuff, appliedenergistics2, bdlib, creativecore, engineersdoors, ieclochecompat, immersivecables, immersivepetroleum, immersiveposts, immersivetech, ic2, journeymap, mekanism, mtlib, treechopper, immersiveengineering] at SERVER
+[03:35:25] [Client thread/INFO] [net.minecraft.client.multiplayer.GuiConnecting]: Connecting to 0.0.0.0, 25565
+[03:35:26] [Netty Client IO #6/INFO] [FML]: Server protocol version 2
+[03:35:26] [Netty Client IO #6/INFO] [FML]: Unexpected packet during modded negotiation - assuming vanilla or keepalives : net.minecraft.network.play.server.SPacketDisconnect
+[03:35:52] [Client thread/INFO] [net.minecraft.client.Minecraft]: Stopping!
+[03:35:52] [Client thread/INFO] [net.minecraft.client.audio.SoundManager]: SoundSystem shutting down...
+[03:35:52] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Author: Paul Lamb, www.paulscode.com

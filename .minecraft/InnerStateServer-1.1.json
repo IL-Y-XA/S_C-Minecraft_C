@@ -1,0 +1,98 @@
+{
+  "remoteServerList": [],
+  "oldServer": [
+    {
+      "minVersion": "1.8",
+      "ignoreVersions": [],
+      "includeVersions": [],
+      "removedTime": [],
+      "recoveryServerTime": 12,
+      "maxRemovingCountServer": 2,
+      "addedDate": "Jan 27, 2019 12:00:51 AM",
+      "name": "VimeMC.ru",
+      "address": "mc.vimemc.ru:25565",
+      "hideAddress": true,
+      "acceptTextures": 1
+    }
+  ],
+  "userServer": [
+    {
+      "name": "DexLand.ru",
+      "address": "mc.dexland.ru:25565",
+      "ip": "mc.dexland.ru",
+      "port": "25565",
+      "hideAddress": true,
+      "acceptTextures": 1
+    },
+    {
+      "name": "Minecraft Server",
+      "address": "0.0.0.0",
+      "ip": "0.0.0.0",
+      "hideAddress": false,
+      "acceptTextures": 0
+    },
+    {
+      "name": "Minecraft Server",
+      "address": "192.168.0.1:25565",
+      "ip": "192.168.0.1",
+      "port": "25565",
+      "hideAddress": false,
+      "acceptTextures": 0
+    },
+    {
+      "name": "Minecraft Server",
+      "address": "192.168.0.12:25565",
+      "ip": "192.168.0.12",
+      "port": "25565",
+      "hideAddress": false,
+      "acceptTextures": 0
+    }
+  ],
+  "serverDatFile": [
+    {
+      "minVersion": "1.8",
+      "ignoreVersions": [],
+      "includeVersions": [],
+      "removedTime": [],
+      "recoveryServerTime": 12,
+      "maxRemovingCountServer": 2,
+      "addedDate": "Jan 27, 2019 12:00:51 AM",
+      "name": "VimeMC.ru",
+      "address": "mc.vimemc.ru:25565",
+      "hideAddress": true,
+      "acceptTextures": 1
+    },
+    {
+      "name": "DexLand.ru",
+      "address": "mc.dexland.ru:25565",
+      "ip": "mc.dexland.ru",
+      "port": "25565",
+      "hideAddress": true,
+      "acceptTextures": 1
+    },
+    {
+      "name": "Minecraft Server",
+      "address": "0.0.0.0",
+      "ip": "0.0.0.0",
+      "hideAddress": false,
+      "acceptTextures": 0
+    },
+    {
+      "name": "Minecraft Server",
+      "address": "192.168.0.1:25565",
+      "ip": "192.168.0.1",
+      "port": "25565",
+      "hideAddress": false,
+      "acceptTextures": 0
+    },
+    {
+      "name": "Minecraft Server",
+      "address": "192.168.0.12:25565",
+      "ip": "192.168.0.12",
+      "port": "25565",
+      "hideAddress": false,
+      "acceptTextures": 0
+    }
+  ],
+  "pageServerList": []
+}

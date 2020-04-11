@@ -1,0 +1,9 @@
+{
+	"profiles": {
+		"forge": {
+			"name": "forge",
+			"lastVersionId": "1.12.2-forge1.12.2-14.23.5.2768"
+		}
+	},
+	"clientToken": "5ea71789-b363-4ae5-84cf-efccb571bd6e"
+}

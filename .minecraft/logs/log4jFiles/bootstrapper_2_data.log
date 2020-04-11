@@ -1,0 +1,143 @@
+2019-06-15 03:22:20,148 main 
+2019-06-15 03:22:20,149 main -------------------------------------------------------------------
+2019-06-15 03:22:20,266 main [Bootstrapper] createLauncher
+2019-06-15 03:22:20,266 main [Bootstrapper] validate files
+2019-06-15 03:22:20,428 main [Bootstrapper] end validated files
+2019-06-15 03:22:20,429 main [Bootstrapper] Starting launcher...
+2019-06-15 03:22:20,694 Thread-2 > [TLAUNCHER][STATIC] initialize inner config
+2019-06-15 03:22:20,859 Thread-2 > [Loading] INITALIZING
+2019-06-15 03:22:21,684 Thread-2 > Starting TLauncher 2.53
+2019-06-15 03:22:21,684 Thread-2 > For more information, visit https://tlauncher.org/
+2019-06-15 03:22:21,685 Thread-2 > Startup time: 15.06.2019 3:22:21
+2019-06-15 03:22:21,685 Thread-2 > ---
+2019-06-15 03:22:21,814 Thread-2 > [Loading] LOADING_CONFIGURATION
+2019-06-15 03:22:21,815 Thread-2 > Loading configuration from file: K:\Users\ferdavs98\AppData\Roaming\.tlauncher\tlauncher-2.0.properties
+2019-06-15 03:22:21,822 Thread-2 > [Configuration] Constant values: {}
+2019-06-15 03:22:21,846 Thread-2 > Machine info: Windows 7 6.1, Java 1.8.0_202 ,jvm bit=x64, 8183 MB RAM 
+2019-06-15 03:22:21,846 Thread-2 > Selected locale: ru_RU
+2019-06-15 03:22:21,917 Thread-2 > [Loading] LOADING_CONSOLE
+2019-06-15 03:22:22,273 Thread-2 > [Swing] Favicons loaded: 256px, 128px, 96px, 64px, 48px, 32px, 24px, 16px
+2019-06-15 03:22:22,484 Thread-2 > 
+2019-06-15 03:22:22,512 Thread-2 > [Downloader2] Loaded configuration: good
+2019-06-15 03:22:22,637 Thread-2 > [Updater] Requesting an update...
+2019-06-15 03:22:22,640 Thread-2 > [Updater] Requesting from: http://repo.tlauncher.org/update/lch/update_2.0.json
+2019-06-15 03:22:22,640 Thread-2 > [Updater] Making request: http://repo.tlauncher.org/update/lch/update_2.0.json?version=2.53&client=a8ca1c77-d31a-4742-8bc1-f0e6d1165771
+2019-06-15 03:22:22,731 Thread-2 > [Updater] Request time: 91 ms
+2019-06-15 03:22:22,731 Thread-2 > [Updater] Successfully requested from: http://repo.tlauncher.org/update/lch/update_2.0.json
+2019-06-15 03:22:22,793 Thread-2 > [Browser] Loading resources...
+2019-06-15 03:22:22,988 Thread-2 > [Browser] Loading background...
+2019-06-15 03:22:23,078 Thread-2 > [Browser] Cleaning up after loading:
+2019-06-15 03:22:23,079 Thread-2 > Starting garbage collector: 88 / 138 MB
+2019-06-15 03:22:23,155 Thread-2 > Garbage collector completed: 19 / 161 MB
+2019-06-15 03:22:23,158 Thread-2 > [Loading] LOADING_MANAGERS
+2019-06-15 03:22:23,167 Thread-2 > [LocalVersionList] Base directory: K:\Users\ferdavs98\AppData\Roaming\.minecraft
+2019-06-15 03:22:23,180 Thread-2 > [ProfileManager] Refreshing profiles from: K:\Users\ferdavs98\AppData\Roaming\.minecraft\TlauncherProfiles.json
+2019-06-15 03:22:23,250 Thread-2 > [JFXStartPageLoader]  start load page: http://page.tlauncher.org/update/downloads/configs/client/index.html
+2019-06-15 03:22:23,264 Thread-2 > [Browser] Running in JavaFX Thread
+2019-06-15 03:22:23,264 Thread-2 > [Browser] Preparing JavaFX...
+2019-06-15 03:22:23,332 Thread-2 > [Browser] Initializing...
+2019-06-15 03:22:23,373 Thread-2 > [AdvertisingStatusObserver]  started to get ad information
+2019-06-15 03:22:23,373 Thread-2 > [AdvertisingStatusObserver]  finished to get add information
+2019-06-15 03:22:23,375 Thread-2 > [GsonUtil]  request to http://repo.tlauncher.org/update/downloads/libraries/org/tlauncher/authlib/libraries-1.2.json
+2019-06-15 03:22:23,377 Thread-2 > [REPO][SERVERLIST_REPO] Selecting relevant path...
+2019-06-15 03:22:23,378 Thread-2 > [Loading] LOADING_WINDOW
+2019-06-15 03:22:23,411 Thread-2 > [Loading] PREPARING_MAINPANE
+2019-06-15 03:22:23,601 Thread-2 > [REPO][SERVERLIST_REPO] Success: Reached the repo in 219 ms.
+2019-06-15 03:22:23,918 Thread-2 > [VersionManager] Refreshing versions remotely...
+2019-06-15 03:22:23,921 Thread-2 > [Downloader2] Loaded configuration: good
+2019-06-15 03:22:23,943 Thread-2 > [REPO][OFFICIAL_VERSION_REPO] Selecting relevant path...
+2019-06-15 03:22:23,943 Thread-2 > [REPO][OFFICIAL_VERSION_REPO] Attempt #1; timeout: 10000 ms; url: https://launchermeta.mojang.com/mc/game/
+2019-06-15 03:22:23,944 Thread-2 > [REPO][EXTRA_VERSION_REPO] Selecting relevant path...
+2019-06-15 03:22:23,944 Thread-2 > [REPO][EXTRA_VERSION_REPO] Attempt #1; timeout: 10000 ms; url: http://repo.tlauncher.org/update/downloads/versions/new3/
+2019-06-15 03:22:23,944 Thread-2 > [REPO][SKIN_VERSION_REPO] Selecting relevant path...
+2019-06-15 03:22:23,944 Thread-2 > [REPO][SKIN_VERSION_REPO] Attempt #1; timeout: 10000 ms; url: http://repo.tlauncher.org/update/downloads/versions/new3/skin/versions/
+2019-06-15 03:22:24,007 Thread-2 > [REPO][EXTRA_VERSION_REPO] Success: Reached the repo in 64 ms.
+2019-06-15 03:22:24,055 Thread-2 > [ExtraVersionList] Got in 112 ms
+2019-06-15 03:22:24,055 Thread-2 > [REPO][SKIN_VERSION_REPO] Success: Reached the repo in 111 ms.
+2019-06-15 03:22:24,071 Thread-2 > [SkinVersionList] Got in 127 ms
+2019-06-15 03:22:24,074 Thread-2 > [JFXStartPageLoader]  succeeded load page: http://page.tlauncher.org/update/downloads/configs/client/index.html during 0
+2019-06-15 03:22:24,075 Thread-2 > [Browser@546732481] Loaded successfully: "http://page.tlauncher.org/update/downloads/configs/client/index.html"
+2019-06-15 03:22:24,294 Thread-2 > [Browser] add listens into server_choose
+2019-06-15 03:22:24,845 Thread-2 > [REPO][OFFICIAL_VERSION_REPO] Success: Reached the repo in 901 ms.
+2019-06-15 03:22:24,995 Thread-2 > [OfficialVersionList] Got in 1054 ms
+2019-06-15 03:22:24,996 Thread-2 > [VersionManager] Versions has been refreshed (1078 ms)
+2019-06-15 03:22:25,137 Thread-2 > [Loading] POSTINIT_GUI
+2019-06-15 03:22:25,137 Thread-2 > [Frame] Packing main frame...
+2019-06-15 03:22:25,242 Thread-2 > [Frame] Resizing main pane...
+2019-06-15 03:22:25,242 Thread-2 > Updater is already closed. Showing up...
+2019-06-15 03:22:25,243 Thread-2 > Visibility set.
+2019-06-15 03:22:25,244 Thread-2 > [Loading] REFRESHING_INFO
+2019-06-15 03:22:25,245 Thread-2 > [VersionManager] Refreshing versions remotely...
+2019-06-15 03:22:25,246 Thread-2 > Started! (3431 ms.)
+2019-06-15 03:22:25,246 Thread-2 > [Loading] SUCCESS
+2019-06-15 03:22:25,246 Thread-2 [Bootstrapper] I can be terminated now.
+2019-06-23 14:29:30,561 main 
+2019-06-23 14:29:30,562 main -------------------------------------------------------------------
+2019-06-23 14:29:30,715 main [Bootstrapper] createLauncher
+2019-06-23 14:29:30,716 main [Bootstrapper] validate files
+2019-06-23 14:29:30,880 main [Bootstrapper] end validated files
+2019-06-23 14:29:30,881 main [Bootstrapper] Starting launcher...
+2019-06-23 14:29:31,174 Thread-2 > [TLAUNCHER][STATIC] initialize inner config
+2019-06-23 14:29:31,408 Thread-2 > [Loading] INITALIZING
+2019-06-23 14:29:32,336 Thread-2 > Starting TLauncher 2.53
+2019-06-23 14:29:32,337 Thread-2 > For more information, visit https://tlauncher.org/
+2019-06-23 14:29:32,337 Thread-2 > Startup time: 23.06.2019 14:29:32
+2019-06-23 14:29:32,337 Thread-2 > ---
+2019-06-23 14:29:32,432 Thread-2 > [Loading] LOADING_CONFIGURATION
+2019-06-23 14:29:32,433 Thread-2 > Loading configuration from file: K:\Users\ferdavs98\AppData\Roaming\.tlauncher\tlauncher-2.0.properties
+2019-06-23 14:29:32,444 Thread-2 > [Configuration] Constant values: {}
+2019-06-23 14:29:32,472 Thread-2 > Machine info: Windows 7 6.1, Java 1.8.0_202 ,jvm bit=x64, 8183 MB RAM 
+2019-06-23 14:29:32,472 Thread-2 > Selected locale: ru_RU
+2019-06-23 14:29:32,533 Thread-2 > [Loading] LOADING_CONSOLE
+2019-06-23 14:29:32,886 Thread-2 > [Swing] Favicons loaded: 256px, 128px, 96px, 64px, 48px, 32px, 24px, 16px
+2019-06-23 14:29:33,230 Thread-2 > 
+2019-06-23 14:29:33,310 Thread-2 > [Downloader2] Loaded configuration: good
+2019-06-23 14:29:33,454 Thread-2 > [Updater] Requesting an update...
+2019-06-23 14:29:33,456 Thread-2 > [Updater] Requesting from: http://repo.tlauncher.org/update/lch/update_2.0.json
+2019-06-23 14:29:33,457 Thread-2 > [Updater] Making request: http://repo.tlauncher.org/update/lch/update_2.0.json?version=2.53&client=a8ca1c77-d31a-4742-8bc1-f0e6d1165771
+2019-06-23 14:29:33,542 Thread-2 > [Updater] Request time: 86 ms
+2019-06-23 14:29:33,543 Thread-2 > [Updater] Successfully requested from: http://repo.tlauncher.org/update/lch/update_2.0.json
+2019-06-23 14:29:35,678 Thread-2 > [Browser] Loading resources...
+2019-06-23 14:29:35,764 Thread-2 > [Browser] Loading background...
+2019-06-23 14:29:35,812 Thread-2 > [Browser] Cleaning up after loading:
+2019-06-23 14:29:35,812 Thread-2 > Starting garbage collector: 39 / 116 MB
+2019-06-23 14:29:35,883 Thread-2 > Garbage collector completed: 17 / 146 MB
+2019-06-23 14:29:35,885 Thread-2 > [Loading] LOADING_MANAGERS
+2019-06-23 14:29:35,892 Thread-2 > [LocalVersionList] Base directory: K:\Users\ferdavs98\AppData\Roaming\.minecraft
+2019-06-23 14:29:35,904 Thread-2 > [ProfileManager] Refreshing profiles from: K:\Users\ferdavs98\AppData\Roaming\.minecraft\TlauncherProfiles.json
+2019-06-23 14:29:35,907 Thread-2 > [AdvertisingStatusObserver]  started to get ad information
+2019-06-23 14:29:35,907 Thread-2 > [AdvertisingStatusObserver]  finished to get add information
+2019-06-23 14:29:35,907 Thread-2 > [GsonUtil]  request to http://repo.tlauncher.org/update/downloads/libraries/org/tlauncher/authlib/libraries-1.2.json
+2019-06-23 14:29:35,913 Thread-2 > [REPO][SERVERLIST_REPO] Selecting relevant path...
+2019-06-23 14:29:35,914 Thread-2 > [Loading] LOADING_WINDOW
+2019-06-23 14:29:35,985 Thread-2 > [REPO][SERVERLIST_REPO] Success: Reached the repo in 53 ms.
+2019-06-23 14:29:36,108 Thread-2 > [Loading] PREPARING_MAINPANE
+2019-06-23 14:29:56,227 Thread-2 > [JFXStartPageLoader]  start load page: http://page.tlauncher.org/update/downloads/configs/client/index.html
+2019-06-23 14:29:56,285 Thread-2 > [VersionManager] Refreshing versions remotely...
+2019-06-23 14:29:56,287 Thread-2 > [Downloader2] Loaded configuration: good
+2019-06-23 14:29:56,324 Thread-2 > [REPO][OFFICIAL_VERSION_REPO] Selecting relevant path...
+2019-06-23 14:29:56,324 Thread-2 > [REPO][SKIN_VERSION_REPO] Selecting relevant path...
+2019-06-23 14:29:56,324 Thread-2 > [REPO][EXTRA_VERSION_REPO] Selecting relevant path...
+2019-06-23 14:29:56,325 Thread-2 > [REPO][SKIN_VERSION_REPO] Attempt #1; timeout: 10000 ms; url: http://repo.tlauncher.org/update/downloads/versions/new3/skin/versions/
+2019-06-23 14:29:56,325 Thread-2 > [REPO][OFFICIAL_VERSION_REPO] Attempt #1; timeout: 10000 ms; url: https://launchermeta.mojang.com/mc/game/
+2019-06-23 14:29:56,326 Thread-2 > [REPO][EXTRA_VERSION_REPO] Attempt #1; timeout: 10000 ms; url: http://repo.tlauncher.org/update/downloads/versions/new3/
+2019-06-23 14:29:56,348 Thread-2 > [Browser] Running in JavaFX Thread
+2019-06-23 14:29:56,348 Thread-2 > [Browser] Preparing JavaFX...
+2019-06-23 14:29:56,840 Thread-2 > [REPO][SKIN_VERSION_REPO] Success: Reached the repo in 516 ms.
+2019-06-23 14:29:56,841 Thread-2 > [REPO][EXTRA_VERSION_REPO] Success: Reached the repo in 515 ms.
+2019-06-23 14:29:56,857 Thread-2 > [SkinVersionList] Got in 532 ms
+2019-06-23 14:29:56,880 Thread-2 > [ExtraVersionList] Got in 555 ms
+2019-06-23 14:29:57,302 Thread-2 > [REPO][OFFICIAL_VERSION_REPO] Success: Reached the repo in 976 ms.
+2019-06-23 14:29:57,422 Thread-2 > [OfficialVersionList] Got in 1097 ms
+2019-06-23 14:29:57,423 Thread-2 > [VersionManager] Versions has been refreshed (1137 ms)
+2019-06-23 14:29:57,572 Thread-2 > [Browser] Initializing...
+2019-06-23 14:29:57,982 Thread-2 > [Loading] POSTINIT_GUI
+2019-06-23 14:29:57,982 Thread-2 > [Frame] Packing main frame...
+2019-06-23 14:29:58,133 Thread-2 > [Frame] Resizing main pane...
+2019-06-23 14:29:58,133 Thread-2 > Updater is already closed. Showing up...
+2019-06-23 14:29:58,134 Thread-2 > Visibility set.
+2019-06-23 14:29:58,134 Thread-2 > [Loading] REFRESHING_INFO
+2019-06-23 14:29:58,136 Thread-2 > [VersionManager] Refreshing versions remotely...
+2019-06-23 14:29:58,137 Thread-2 > Started! (25704 ms.)
+2019-06-23 14:29:58,137 Thread-2 > [Loading] SUCCESS
+2019-06-23 14:29:58,137 Thread-2 [Bootstrapper] I can be terminated now.

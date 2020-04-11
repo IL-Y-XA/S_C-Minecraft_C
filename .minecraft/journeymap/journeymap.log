@@ -1,0 +1,78 @@
+[04:14:42] [Client thread/INFO] [JMLogger] JourneyMap log initialized.
+[04:14:42] [Client thread/INFO] [JourneymapClient] initialize ENTER
+[04:14:42] [Client thread/INFO] [?] Version: JourneyMap 1.12.2-5.7.0, built with Forge 14.23.5.2768
+Forge: 14.23.5.2838
+Environment: os.name, os.arch, java.version, user.country, user.language=null, game language=ru_ru, locale=ru_ru
+Features: 
+	RadarPlayers : singleplayer = true , multiplayer = true
+	RadarAnimals : singleplayer = true , multiplayer = true
+	RadarMobs : singleplayer = true , multiplayer = true
+	RadarVillagers : singleplayer = true , multiplayer = true
+	MapTopo : singleplayer = true , multiplayer = true
+	MapSurface : singleplayer = true , multiplayer = true
+	MapCaves : singleplayer = true , multiplayer = true
+MiniMapProperties{state=Valid, file=journeymap.minimap.config, configVersion=5.7.0, zoomLevel=0, showPlayers=true, frameAlpha=100, compassFontScale=2, terrainAlpha=100, showEntityNames=true, enabled=true, showPlayerHeading=true, showVillagers=true, info2Label=Игровое время, sizePercent=30, showDayNight=true, info3Label=Кординаты, showMobs=true, showPets=true, preferredMapType=night, showCompass=true, mobDisplay=Маленький точки, showReticle=true, orientation=Север, systemTimeRealFormat=HH:mm:ss, shape=Окружность, showSelf=true, info4Label=Биом, locationFormat=xzyv, playerDisplay=Маленький точки, showGrid=true, reticleOrientation=Компас, gameTimeRealFormat=HH:mm:ss, showWaypoints=true, showCaves=true, showAnimals=true, showMobHeading=true, showWaypointLabels=true, locationFormatVerbose=true, position=Вверху справа, info1Label=Пустой, fontScale=2}
+MiniMapProperties{state=Valid, file=journeymap.minimap2.config, configVersion=5.7.0, zoomLevel=0, showPlayers=true, frameAlpha=100, compassFontScale=2, terrainAlpha=100, showEntityNames=true, enabled=true, showPlayerHeading=true, showVillagers=true, info2Label=Игровое время, sizePercent=30, showDayNight=true, info3Label=Кординаты, showMobs=true, showPets=true, preferredMapType=day, showCompass=true, mobDisplay=Маленький точки, showReticle=true, orientation=Север, systemTimeRealFormat=HH:mm:ss, shape=Прямоугольник, showSelf=true, info4Label=Биом, locationFormat=xzyv, playerDisplay=Маленький точки, showGrid=true, reticleOrientation=Компас, gameTimeRealFormat=HH:mm:ss, showWaypoints=true, showCaves=true, showAnimals=true, showMobHeading=true, showWaypointLabels=true, locationFormatVerbose=true, position=Вверху справа, info1Label=Пустой, fontScale=2}
+FullMapProperties{state=Valid, file=journeymap.fullmap.config, configVersion=5.7.0, mobDisplay=Маленький точки, zoomLevel=0, showPlayers=true, showSelf=true, locationFormat=xzyv, playerDisplay=Маленький точки, showGrid=true, showEntityNames=true, showPlayerHeading=true, showVillagers=true, showWaypoints=true, showCaves=true, showAnimals=true, showMobHeading=true, showKeys=true, showWaypointLabels=true, locationFormatVerbose=true, showMobs=true, showPets=true, fontScale=2, preferredMapType=day}
+WaypointProperties{state=Valid, file=journeymap.waypoint.config, configVersion=5.7.0, autoRemoveDeathpointDistance=2, createDeathpoints=true, showName=true, dateFormat=MM-dd-yyyy, autoRemoveDeathpoints=false, maxDistance=0, autoHideLabel=true, teleportCommand=/tp {name} {x} {y} {z}, showStaticBeam=true, minDistance=4, timeFormat=HH:mm:ss, boldLabel=false, textureSmall=true, showDeathpointlabel=true, showDistance=true, showRotatingBeam=true, fontScale=2, showTexture=true, managerEnabled=true, beaconEnabled=true}
+WebMapProperties{state=Valid, file=journeymap.webmap.config, configVersion=5.7.0, zoomLevel=0, showWaypoints=true, showCaves=true, showSelf=true, port=8080, showGrid=true, showEntityNames=true, enabled=false, preferredMapType=day}
+CoreProperties{state=Valid, file=journeymap.core.config, configVersion=5.7.0, verboseColorPalette=false, maxPlayersData=32, mapSurfaceAboveCaves=true, optionsManagerViewed=5.7.0, announceMod=true, colorPassive=#bbbbbb, renderOverlayEventTypeName=ALL, mapBlendWater=false, renderDistanceSurfaceMax=7, radarVerticalDistance=16, mapBlendGrass=true, recordCacheStats=false, hideSneakingEntities=true, revealShape=Окружность, alwaysMapSurface=false, colorVillager=#88e188, mapPlants=false, colorPet=#0077ff, radarLateralDistance=64, mapBathymetry=false, mapCrops=true, maxMobsData=32, mapPlantShadows=false, alwaysMapCaves=false, checkUpdates=true, browserPoll=2000, mapBlendFoliage=true, mappingEnabled=true, colorPlayer=#ffffff, tileHighDisplayQuality=true, cacheVillagersData=2200, logLevel=INFO, maxVillagersData=32, maxAnimalsData=32, mapTransparency=true, tileRenderType=1, caveIgnoreGlass=true, mapTopography=true, renderDistanceCaveMax=3, mapAntialiasing=true, colorSelf=#0000ff, cachePlayersData=2000, cacheMobsData=3000, cachePlayerData=1000, splashViewed=5.7.0, colorHostile=#ff0000, cacheAnimalsData=3100, themeName=OceanMonument, mapCaveLighting=true, renderDelay=2, renderOverlayPreEvent=true, autoMapPoll=2000}
+[04:14:42] [Client thread/INFO] [ClientAPI] [ClientAPI] built with JourneyMap API 1.4
+[04:14:42] [Client thread/INFO] [PluginHelper] Initializing plugins with Client API: journeymap.client.api.impl.ClientAPI
+[04:14:42] [Client thread/INFO] [JourneymapClient] initialize EXIT, elapsed count 0 avg ?ms
+[04:14:59] [Client thread/DEBUG] [JourneymapClient] postInitialize ENTER
+[04:15:00] [Client thread/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.forge.event.KeyEventHandler
+[04:15:00] [Client thread/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.forge.event.ChatEventHandler
+[04:15:00] [Client thread/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.forge.event.StateTickHandler
+[04:15:00] [Client thread/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.forge.event.WorldEventHandler
+[04:15:00] [Client thread/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.forge.event.WaypointBeaconHandler
+[04:15:00] [Client thread/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.forge.event.TextureAtlasHandler
+[04:15:00] [Client thread/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.forge.event.MiniMapOverlayHandler
+[04:15:00] [Client thread/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.forge.event.PlayerConnectHandler
+[04:15:00] [Client thread/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.world.ChunkMonitor
+[04:15:00] [Client thread/INFO] [IconSetFileHandler] Added entity icons from journeymap:icon/entity. Success: false
+[04:15:00] [Client thread/TRACE] [ThemeLoader] Initializing themes ...
+[04:15:01] [Client thread/INFO] [ThemeLoader] Preloaded theme textures: 73
+[04:15:01] [Client thread/DEBUG] [StatTimer] elapsed was slow: 1196.5743
+[04:15:01] [Client thread/DEBUG] [JourneymapClient] postInitialize EXIT, elapsed§8 count §r1§8 avg §r§r1196.57§8ms§r
+[04:15:07] [JM-VersionCheck-1/ERROR] [VersionCheck$1] Could not check version URL
+org.apache.http.conn.ConnectTimeoutException: Connect to api.cfwidget.com:443 [api.cfwidget.com/167.99.23.151] failed: connect timed out
+	at org.apache.http.impl.conn.HttpClientConnectionOperator.connect(HttpClientConnectionOperator.java:132) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:314) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:363) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:219) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:195) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:86) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:108) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:186) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:82) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:106) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:57) ~[httpclient-4.3.3.jar:4.3.3]
+	at journeymap.common.version.VersionCheck$1.run(VersionCheck.java:131) [VersionCheck$1.class:1.12.2-5.7.0]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source) [?:1.8.0_241]
+	at java.util.concurrent.FutureTask.run(Unknown Source) [?:1.8.0_241]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_241]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_241]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_241]
+Caused by: java.net.SocketTimeoutException: connect timed out
+	at java.net.TwoStacksPlainSocketImpl.socketConnect(Native Method) ~[?:1.8.0_241]
+	at java.net.AbstractPlainSocketImpl.doConnect(Unknown Source) ~[?:1.8.0_241]
+	at java.net.AbstractPlainSocketImpl.connectToAddress(Unknown Source) ~[?:1.8.0_241]
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source) ~[?:1.8.0_241]
+	at java.net.PlainSocketImpl.connect(Unknown Source) ~[?:1.8.0_241]
+	at java.net.SocksSocketImpl.connect(Unknown Source) ~[?:1.8.0_241]
+	at java.net.Socket.connect(Unknown Source) ~[?:1.8.0_241]
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.connectSocket(SSLConnectionSocketFactory.java:239) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.conn.HttpClientConnectionOperator.connect(HttpClientConnectionOperator.java:117) ~[httpclient-4.3.3.jar:4.3.3]
+	... 16 more
+[04:17:10] [Client thread/INFO] [ModBlockDelegate] Custom modded block handling enabled for bibliocraft
+[04:17:10] [Client thread/INFO] [ModBlockDelegate] Custom modded block handling enabled for biomesoplenty
+[04:17:10] [Client thread/INFO] [WaypointStore] Loaded 0 waypoints from C:\Users\iljaf\AppData\Roaming\.minecraft\journeymap\data\mp\35~228~193~171~22865\waypoints
+[04:17:10] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\iljaf\AppData\Roaming\.minecraft\journeymap\data\mp\35~228~193~171~22865\DIM0. Memory: 3680MB total, 1371MB free 
+[04:17:10] [Client thread/INFO] [ChatLog] JourneyMap: Нажмите [J].
+[04:22:58] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\iljaf\AppData\Roaming\.minecraft\journeymap\data\mp\35~228~193~171~22865\DIM0
+[04:22:58] [Client thread/WARN] [FileHandler] Couldn't copy color palette html: java.lang.NullPointerException
+[04:22:58] [Client thread/ERROR] [ColorPalette] Can't write colorpalette.html: java.lang.NullPointerException
+[04:22:58] [Client thread/WARN] [ColorPalette] Existing color palette's mods no longer match current loadout.
+[04:22:58] [Client thread/INFO] [ColorPalette] WAS: AE2 Stuff:0.7.0.4, Advanced Machines:61.0.1, Advanced Solar Panels:4.3.0, Applied Energistics 2:rv6-stable-7, BD Lib:1.14.3.12, BuildCraft Builders:7.99.24.6, BuildCraft Compat:7.99.24.6, BuildCraft Energy:7.99.24.6, BuildCraft Factory:7.99.24.6, BuildCraft Lib:7.99.24.6, BuildCraft Robotics:7.99.24.6, BuildCraft Silicon:7.99.24.6, BuildCraft Transport:7.99.24.6, BuildCraft:7.99.24.6, CTM:MC1.12.2-1.0.2.31, Cathedral:1.12.2-1.9.9, Chisel:MC1.12.2-1.0.2.45, CodeChicken Lib:3.2.3.358, CreativeCore:1.10.0, CreativeCoreDummy:1.0.0, Engineer's Doors:0.8.0, Extra Cells 2:2.6.5, Forge Mod Loader:8.0.99.99, Gravitation Suite:3.1.1, HardLib:7, Harder Ores:7.0.0a, IE Cloche Compat:2.1.7-dev.454, Immersive Cables:1.3.2, Immersive Engineering:0.12-92, Immersive Petroleum:1.1.9, Immersive Posts:0.1.5, Immersive Tech:1.3.10, IndustrialCraft 2:2.8.189-ex112, Iron Chest:1.12.2-7.0.67.844, ItemPhysic:1.4.0, JourneyMap:1.12.2-5.7.0, Just Enough Items:4.15.0.293, MTLib:3.0.6, Mekanism:1.12.2-9.6.4.356, Minecraft Coder Pack:9.42, Minecraft Forge:14.23.5.2847, Minecraft:1.12.2, Not Enough Items:2.4.3, Ore Flowers:7.0.0a, TLSkinCape:1.4, Tree Chopper:1.2.4, UniDict:1.12.2-2.9.6, Unlimited Chisel Works:0.3.2, WanionLib:1.12.2-2.4, customoregen:1.12
+NOW: AE2 Stuff:0.7.0.4, Advanced Machines:61.0.1, Advanced Solar Panels:4.3.0, Applied Energistics 2:rv6-stable-7, ArmorStatusHUD:1.43.0, BD Lib:1.14.3.12, Better Questing:3.5.323, BiblioCraft:2.4.5, Binnie Core:2.5.1.202, Binnie's Botany:2.5.1.202, Binnie's Design:2.5.1.202, Binnie's Extra Bees:2.5.1.202, Binnie's Extra Trees:2.5.1.202, Binnie's Genetics:2.5.1.202, Biomes O' Plenty:7.0.1.2444, BuildCraft Builders:7.99.24.6, BuildCraft Compat:7.99.24.6, BuildCraft Energy:7.99.24.6, BuildCraft Factory:7.99.24.6, BuildCraft Lib:7.99.24.6, BuildCraft Robotics:7.99.24.6, BuildCraft Silicon:7.99.24.6, BuildCraft Transport:7.99.24.6, BuildCraft:7.99.24.6, CT-GUI:1.0.0, CTM:MC1.12.2-1.0.2.31, Cathedral:1.12.2-1.9.9, Chisel:MC1.12.2-1.0.2.45, CoFH Core:4.6.6, CoFH World:1.4.0, CodeChicken Lib:3.2.3.358, Cosmetic Wings:1.12.1-0.5.5, CraftTweaker JEI Support:2.0.3, CraftTweaker2:4.1.20, CreativeCore:1.10.0, CreativeCoreDummy:1.0.0, CustomNPCs:1.12, Energy Converters:1.3.6.24, Engineer's Doors:0.8.0, Extra Cells 2:2.6.5, Forestry:5.8.2.387, Forge Microblocks:2.6.2.83, Forge Mod Loader:8.0.99.99, Forge Multipart CBE:2.6.2.83, Gravitation Suite:3.1.1, IE Cloche Compat:2.1.7-dev.454, Immersive Cables:1.3.2, Immersive Engineering:0.12-92, Immersive Petroleum:1.1.9, Immersive Posts:0.1.5, Immersive Tech:1.3.10, IndustrialCraft 2:2.8.189-ex112, Inventory Tweaks:1.64+dev.151.822d839, Iron Chest:1.12.2-7.0.67.844, ItemPhysic:1.4.0, JourneyMap:1.12.2-5.7.0, Just Enough Items:4.15.0.293, MTLib:3.0.6, Mekanism:1.12.2-9.6.4.356, Minecraft Coder Pack:9.42, Minecraft Forge:14.23.5.2838, Minecraft Multipart Plugin:2.6.2.83, Minecraft:1.12.2, Mod Tweaker:4.0.18, MrTJPCore:2.1.4.43, Not Enough Items:2.4.3, ProjectRed Core:4.9.4.120, ProjectRed Expansion:4.9.4.120, ProjectRed Exploration:4.9.4.120, ProjectRed Fabrication:4.9.4.120, ProjectRed Illumination:4.9.4.120, ProjectRed Integration:4.9.4.120, ProjectRed Relocation:4.9.4.120, ProjectRed Transmission:4.9.4.120, ProjectRed Transportation:4.9.4.120, Redstone Flux:2.1.1, Smooth Font Core:mc1.12.2-2.1, Smooth Font:mc1.12.2-2.1, Standard Expansion:3.4.173, StatusEffectHUD:1.43.0, Thermal Cultivation:0.3.6, Thermal Dynamics:2.5.6, Thermal Expansion:5.5.6, Thermal Foundation:2.6.6, Tree Chopper:1.2.4, UniDict:1.12.2-2.9.6, Unlimited Chisel Works:0.3.2, Varied Commodities:1.12.2, Waila Harvestability:1.1.12, Waila:1.8.26, WanionLib:1.12.2-2.4, What Are We Looking At:2.6.274, Xtones:1.12-1.0.8-11, bspkrsCore:7.6.0.1, projectred-compat:1.0

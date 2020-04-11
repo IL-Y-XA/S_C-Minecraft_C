@@ -1,0 +1,404 @@
+2020-04-07 02:54:53,204 main [DEBUG] -----  http://minecraft-mod.su : 301
+2020-04-07 02:54:53,206 main [Loading] INITALIZING
+2020-04-07 02:54:53,257 main Starting ALauncher for Minecraft-Mod.su  1.964
+2020-04-07 02:54:53,257 main Have question? Find my e-mail in lang files.
+2020-04-07 02:54:53,260 main Machine info: Windows 10 10.0 x64, Java 1.8.0_241, 16326 MB RAM
+2020-04-07 02:54:53,265 main Startup time: Apr 7, 2020 2:54:53 AM
+2020-04-07 02:54:53,266 main ---
+2020-04-07 02:54:53,296 main [Loading] LOADING_CONFIGURATION
+2020-04-07 02:54:53,299 main Creating configuration file...
+2020-04-07 02:54:53,301 main Loading configuration from file: C:\Users\iljaf\AppData\Roaming\.tlauncher\minecraft-su.properties
+2020-04-07 02:54:53,729 main [Configuration] Constant values: {}
+2020-04-07 02:54:53,731 main [Configuration] Key "minecraft.versions.release" is invalid!
+ru.turikhay.exceptions.ParseException: Value is NULL
+at ru.turikhay.tlauncher.configuration.PlainParser.parse(PlainParser.java:13)
+at ru.turikhay.tlauncher.configuration.Configuration.init(Configuration.java:109)
+at ru.turikhay.tlauncher.configuration.Configuration.<init>(Configuration.java:50)
+at ru.turikhay.tlauncher.configuration.Configuration.createConfiguration(Configuration.java:76)
+at ru.turikhay.tlauncher.rmo.TLauncher.<init>(TLauncher.java:127)
+at ru.turikhay.tlauncher.rmo.TLauncher.launch(TLauncher.java:435)
+at ru.turikhay.tlauncher.rmo.TLauncher.main(TLauncher.java:396)
+
+2020-04-07 02:54:53,739 main [Configuration] Key "minecraft.versions.sub.old_release" is invalid!
+ru.turikhay.exceptions.ParseException: Value is NULL
+at ru.turikhay.tlauncher.configuration.PlainParser.parse(PlainParser.java:13)
+at ru.turikhay.tlauncher.configuration.Configuration.init(Configuration.java:109)
+at ru.turikhay.tlauncher.configuration.Configuration.<init>(Configuration.java:50)
+at ru.turikhay.tlauncher.configuration.Configuration.createConfiguration(Configuration.java:76)
+at ru.turikhay.tlauncher.rmo.TLauncher.<init>(TLauncher.java:127)
+at ru.turikhay.tlauncher.rmo.TLauncher.launch(TLauncher.java:435)
+at ru.turikhay.tlauncher.rmo.TLauncher.main(TLauncher.java:396)
+
+2020-04-07 02:54:53,745 main [Configuration] Key "minecraft.onlaunch" is invalid!
+ru.turikhay.exceptions.ParseException: Value is NULL
+at ru.turikhay.tlauncher.configuration.PlainParser.parse(PlainParser.java:13)
+at ru.turikhay.tlauncher.configuration.Configuration.init(Configuration.java:109)
+at ru.turikhay.tlauncher.configuration.Configuration.<init>(Configuration.java:50)
+at ru.turikhay.tlauncher.configuration.Configuration.createConfiguration(Configuration.java:76)
+at ru.turikhay.tlauncher.rmo.TLauncher.<init>(TLauncher.java:127)
+at ru.turikhay.tlauncher.rmo.TLauncher.launch(TLauncher.java:435)
+at ru.turikhay.tlauncher.rmo.TLauncher.main(TLauncher.java:396)
+
+2020-04-07 02:54:53,750 main [Configuration] Key "gui.notice.ad_server" is invalid!
+ru.turikhay.exceptions.ParseException: Value is NULL
+at ru.turikhay.tlauncher.configuration.PlainParser.parse(PlainParser.java:13)
+at ru.turikhay.tlauncher.configuration.Configuration.init(Configuration.java:109)
+at ru.turikhay.tlauncher.configuration.Configuration.<init>(Configuration.java:50)
+at ru.turikhay.tlauncher.configuration.Configuration.createConfiguration(Configuration.java:76)
+at ru.turikhay.tlauncher.rmo.TLauncher.<init>(TLauncher.java:127)
+at ru.turikhay.tlauncher.rmo.TLauncher.launch(TLauncher.java:435)
+at ru.turikhay.tlauncher.rmo.TLauncher.main(TLauncher.java:396)
+
+2020-04-07 02:54:53,755 main [Configuration] Key "minecraft.memory" is invalid!
+ru.turikhay.exceptions.ParseException: Value is NULL
+at ru.turikhay.tlauncher.configuration.PlainParser.parse(PlainParser.java:13)
+at ru.turikhay.tlauncher.configuration.Configuration.init(Configuration.java:109)
+at ru.turikhay.tlauncher.configuration.Configuration.<init>(Configuration.java:50)
+at ru.turikhay.tlauncher.configuration.Configuration.createConfiguration(Configuration.java:76)
+at ru.turikhay.tlauncher.rmo.TLauncher.<init>(TLauncher.java:127)
+at ru.turikhay.tlauncher.rmo.TLauncher.launch(TLauncher.java:435)
+at ru.turikhay.tlauncher.rmo.TLauncher.main(TLauncher.java:396)
+
+2020-04-07 02:54:53,759 main [Configuration] Key "gui.notice.ad_other" is invalid!
+ru.turikhay.exceptions.ParseException: Value is NULL
+at ru.turikhay.tlauncher.configuration.PlainParser.parse(PlainParser.java:13)
+at ru.turikhay.tlauncher.configuration.Configuration.init(Configuration.java:109)
+at ru.turikhay.tlauncher.configuration.Configuration.<init>(Configuration.java:50)
+at ru.turikhay.tlauncher.configuration.Configuration.createConfiguration(Configuration.java:76)
+at ru.turikhay.tlauncher.rmo.TLauncher.<init>(TLauncher.java:127)
+at ru.turikhay.tlauncher.rmo.TLauncher.launch(TLauncher.java:435)
+at ru.turikhay.tlauncher.rmo.TLauncher.main(TLauncher.java:396)
+
+2020-04-07 02:54:53,767 main [Configuration] Key "minecraft.gamedir" is invalid!
+ru.turikhay.exceptions.ParseException: Value is NULL
+at ru.turikhay.tlauncher.configuration.PlainParser.parse(PlainParser.java:13)
+at ru.turikhay.tlauncher.configuration.Configuration.init(Configuration.java:109)
+at ru.turikhay.tlauncher.configuration.Configuration.<init>(Configuration.java:50)
+at ru.turikhay.tlauncher.configuration.Configuration.createConfiguration(Configuration.java:76)
+at ru.turikhay.tlauncher.rmo.TLauncher.<init>(TLauncher.java:127)
+at ru.turikhay.tlauncher.rmo.TLauncher.launch(TLauncher.java:435)
+at ru.turikhay.tlauncher.rmo.TLauncher.main(TLauncher.java:396)
+
+2020-04-07 02:54:53,773 main [Configuration] Key "gui.statistics.checkbox" is invalid!
+ru.turikhay.exceptions.ParseException: Value is NULL
+at ru.turikhay.tlauncher.configuration.PlainParser.parse(PlainParser.java:13)
+at ru.turikhay.tlauncher.configuration.Configuration.init(Configuration.java:109)
+at ru.turikhay.tlauncher.configuration.Configuration.<init>(Configuration.java:50)
+at ru.turikhay.tlauncher.configuration.Configuration.createConfiguration(Configuration.java:76)
+at ru.turikhay.tlauncher.rmo.TLauncher.<init>(TLauncher.java:127)
+at ru.turikhay.tlauncher.rmo.TLauncher.launch(TLauncher.java:435)
+at ru.turikhay.tlauncher.rmo.TLauncher.main(TLauncher.java:396)
+
+2020-04-07 02:54:53,778 main [Configuration] Key "minecraft.versions.sub.remote" is invalid!
+ru.turikhay.exceptions.ParseException: Value is NULL
+at ru.turikhay.tlauncher.configuration.PlainParser.parse(PlainParser.java:13)
+at ru.turikhay.tlauncher.configuration.Configuration.init(Configuration.java:109)
+at ru.turikhay.tlauncher.configuration.Configuration.<init>(Configuration.java:50)
+at ru.turikhay.tlauncher.configuration.Configuration.createConfiguration(Configuration.java:76)
+at ru.turikhay.tlauncher.rmo.TLauncher.<init>(TLauncher.java:127)
+at ru.turikhay.tlauncher.rmo.TLauncher.launch(TLauncher.java:435)
+at ru.turikhay.tlauncher.rmo.TLauncher.main(TLauncher.java:396)
+
+2020-04-07 02:54:53,784 main [Configuration] Key "gui.console.width" is invalid!
+ru.turikhay.exceptions.ParseException: Value is NULL
+at ru.turikhay.tlauncher.configuration.PlainParser.parse(PlainParser.java:13)
+at ru.turikhay.tlauncher.configuration.Configuration.init(Configuration.java:109)
+at ru.turikhay.tlauncher.configuration.Configuration.<init>(Configuration.java:50)
+at ru.turikhay.tlauncher.configuration.Configuration.createConfiguration(Configuration.java:76)
+at ru.turikhay.tlauncher.rmo.TLauncher.<init>(TLauncher.java:127)
+at ru.turikhay.tlauncher.rmo.TLauncher.launch(TLauncher.java:435)
+at ru.turikhay.tlauncher.rmo.TLauncher.main(TLauncher.java:396)
+
+2020-04-07 02:54:53,790 main [Configuration] Key "gui.console.height" is invalid!
+ru.turikhay.exceptions.ParseException: Value is NULL
+at ru.turikhay.tlauncher.configuration.PlainParser.parse(PlainParser.java:13)
+at ru.turikhay.tlauncher.configuration.Configuration.init(Configuration.java:109)
+at ru.turikhay.tlauncher.configuration.Configuration.<init>(Configuration.java:50)
+at ru.turikhay.tlauncher.configuration.Configuration.createConfiguration(Configuration.java:76)
+at ru.turikhay.tlauncher.rmo.TLauncher.<init>(TLauncher.java:127)
+at ru.turikhay.tlauncher.rmo.TLauncher.launch(TLauncher.java:435)
+at ru.turikhay.tlauncher.rmo.TLauncher.main(TLauncher.java:396)
+
+2020-04-07 02:54:53,795 main [Configuration] Key "minecraft.versions.modified" is invalid!
+ru.turikhay.exceptions.ParseException: Value is NULL
+at ru.turikhay.tlauncher.configuration.PlainParser.parse(PlainParser.java:13)
+at ru.turikhay.tlauncher.configuration.Configuration.init(Configuration.java:109)
+at ru.turikhay.tlauncher.configuration.Configuration.<init>(Configuration.java:50)
+at ru.turikhay.tlauncher.configuration.Configuration.createConfiguration(Configuration.java:76)
+at ru.turikhay.tlauncher.rmo.TLauncher.<init>(TLauncher.java:127)
+at ru.turikhay.tlauncher.rmo.TLauncher.launch(TLauncher.java:435)
+at ru.turikhay.tlauncher.rmo.TLauncher.main(TLauncher.java:396)
+
+2020-04-07 02:54:53,800 main [Configuration] Key "gui.console.x" is invalid!
+ru.turikhay.exceptions.ParseException: Value is NULL
+at ru.turikhay.tlauncher.configuration.PlainParser.parse(PlainParser.java:13)
+at ru.turikhay.tlauncher.configuration.Configuration.init(Configuration.java:109)
+at ru.turikhay.tlauncher.configuration.Configuration.<init>(Configuration.java:50)
+at ru.turikhay.tlauncher.configuration.Configuration.createConfiguration(Configuration.java:76)
+at ru.turikhay.tlauncher.rmo.TLauncher.<init>(TLauncher.java:127)
+at ru.turikhay.tlauncher.rmo.TLauncher.launch(TLauncher.java:435)
+at ru.turikhay.tlauncher.rmo.TLauncher.main(TLauncher.java:396)
+
+2020-04-07 02:54:53,805 main [Configuration] Key "gui.console.y" is invalid!
+ru.turikhay.exceptions.ParseException: Value is NULL
+at ru.turikhay.tlauncher.configuration.PlainParser.parse(PlainParser.java:13)
+at ru.turikhay.tlauncher.configuration.Configuration.init(Configuration.java:109)
+at ru.turikhay.tlauncher.configuration.Configuration.<init>(Configuration.java:50)
+at ru.turikhay.tlauncher.configuration.Configuration.createConfiguration(Configuration.java:76)
+at ru.turikhay.tlauncher.rmo.TLauncher.<init>(TLauncher.java:127)
+at ru.turikhay.tlauncher.rmo.TLauncher.launch(TLauncher.java:435)
+at ru.turikhay.tlauncher.rmo.TLauncher.main(TLauncher.java:396)
+
+2020-04-07 02:54:53,810 main [Configuration] Key "gui.console" is invalid!
+ru.turikhay.exceptions.ParseException: Value is NULL
+at ru.turikhay.tlauncher.configuration.PlainParser.parse(PlainParser.java:13)
+at ru.turikhay.tlauncher.configuration.Configuration.init(Configuration.java:109)
+at ru.turikhay.tlauncher.configuration.Configuration.<init>(Configuration.java:50)
+at ru.turikhay.tlauncher.configuration.Configuration.createConfiguration(Configuration.java:76)
+at ru.turikhay.tlauncher.rmo.TLauncher.<init>(TLauncher.java:127)
+at ru.turikhay.tlauncher.rmo.TLauncher.launch(TLauncher.java:435)
+at ru.turikhay.tlauncher.rmo.TLauncher.main(TLauncher.java:396)
+
+2020-04-07 02:54:53,814 main [Configuration] Key "minecraft.size" is invalid!
+ru.turikhay.exceptions.ParseException: Value is NULL
+at ru.turikhay.tlauncher.configuration.PlainParser.parse(PlainParser.java:13)
+at ru.turikhay.tlauncher.configuration.Configuration.init(Configuration.java:109)
+at ru.turikhay.tlauncher.configuration.Configuration.<init>(Configuration.java:50)
+at ru.turikhay.tlauncher.configuration.Configuration.createConfiguration(Configuration.java:76)
+at ru.turikhay.tlauncher.rmo.TLauncher.<init>(TLauncher.java:127)
+at ru.turikhay.tlauncher.rmo.TLauncher.launch(TLauncher.java:435)
+at ru.turikhay.tlauncher.rmo.TLauncher.main(TLauncher.java:396)
+
+2020-04-07 02:54:53,819 main [Configuration] Key "client" is invalid!
+ru.turikhay.exceptions.ParseException: Value is NULL
+at ru.turikhay.tlauncher.configuration.PlainParser.parse(PlainParser.java:13)
+at ru.turikhay.tlauncher.configuration.Configuration.init(Configuration.java:109)
+at ru.turikhay.tlauncher.configuration.Configuration.<init>(Configuration.java:50)
+at ru.turikhay.tlauncher.configuration.Configuration.createConfiguration(Configuration.java:76)
+at ru.turikhay.tlauncher.rmo.TLauncher.<init>(TLauncher.java:127)
+at ru.turikhay.tlauncher.rmo.TLauncher.launch(TLauncher.java:435)
+at ru.turikhay.tlauncher.rmo.TLauncher.main(TLauncher.java:396)
+
+2020-04-07 02:54:53,824 main [Configuration] Key "connection" is invalid!
+ru.turikhay.exceptions.ParseException: Value is NULL
+at ru.turikhay.tlauncher.configuration.PlainParser.parse(PlainParser.java:13)
+at ru.turikhay.tlauncher.configuration.Configuration.init(Configuration.java:109)
+at ru.turikhay.tlauncher.configuration.Configuration.<init>(Configuration.java:50)
+at ru.turikhay.tlauncher.configuration.Configuration.createConfiguration(Configuration.java:76)
+at ru.turikhay.tlauncher.rmo.TLauncher.<init>(TLauncher.java:127)
+at ru.turikhay.tlauncher.rmo.TLauncher.launch(TLauncher.java:435)
+at ru.turikhay.tlauncher.rmo.TLauncher.main(TLauncher.java:396)
+
+2020-04-07 02:54:53,829 main [Configuration] Key "minecraft.fullscreen" is invalid!
+ru.turikhay.exceptions.ParseException: Value is NULL
+at ru.turikhay.tlauncher.configuration.PlainParser.parse(PlainParser.java:13)
+at ru.turikhay.tlauncher.configuration.Configuration.init(Configuration.java:109)
+at ru.turikhay.tlauncher.configuration.Configuration.<init>(Configuration.java:50)
+at ru.turikhay.tlauncher.configuration.Configuration.createConfiguration(Configuration.java:76)
+at ru.turikhay.tlauncher.rmo.TLauncher.<init>(TLauncher.java:127)
+at ru.turikhay.tlauncher.rmo.TLauncher.launch(TLauncher.java:435)
+at ru.turikhay.tlauncher.rmo.TLauncher.main(TLauncher.java:396)
+
+2020-04-07 02:54:53,834 main [Configuration] Key "gui.notice.ad_youtube" is invalid!
+ru.turikhay.exceptions.ParseException: Value is NULL
+at ru.turikhay.tlauncher.configuration.PlainParser.parse(PlainParser.java:13)
+at ru.turikhay.tlauncher.configuration.Configuration.init(Configuration.java:109)
+at ru.turikhay.tlauncher.configuration.Configuration.<init>(Configuration.java:50)
+at ru.turikhay.tlauncher.configuration.Configuration.createConfiguration(Configuration.java:76)
+at ru.turikhay.tlauncher.rmo.TLauncher.<init>(TLauncher.java:127)
+at ru.turikhay.tlauncher.rmo.TLauncher.launch(TLauncher.java:435)
+at ru.turikhay.tlauncher.rmo.TLauncher.main(TLauncher.java:396)
+
+2020-04-07 02:54:53,847 main [Configuration] Searching for supported locales...
+2020-04-07 02:54:53,850 main [Configuration] Selected locale is not supported, rolling back to default one
+2020-04-07 02:54:53,853 main Selected locale: en_US
+2020-04-07 02:54:53,863 main Locale uk_UA contains redundant key ?#
+2020-04-07 02:54:54,178 main [Browser] Loading resources...
+2020-04-07 02:54:54,211 main [Browser] Loading background...
+2020-04-07 02:54:54,224 main [Browser] Cleaning up after loading:
+2020-04-07 02:54:54,224 main Starting garbage collector: 44 / 245 MB
+2020-04-07 02:54:54,241 main Garbage collector completed: 7 / 245 MB
+2020-04-07 02:54:54,244 main [Loading] LOADING_CONSOLE
+2020-04-07 02:54:54,411 JavaFX Application Thread [JFXStartPageLoader]  start load page: http://minecraft-mod.su/launcher/update/lch/index.html
+2020-04-07 02:54:54,416 JavaFX Application Thread [DEBUG] -----  JavaFX Application Thread has started a runLater 0 seconds
+2020-04-07 02:54:54,417 JavaFX Application Thread [Browser] Running in JavaFX Thread
+2020-04-07 02:54:54,417 JavaFX Application Thread [Browser] Preparing JavaFX...
+2020-04-07 02:54:54,473 JavaFX Application Thread [Browser] Initializing...
+2020-04-07 02:54:54,660 JavaFX Application Thread [JFXStartPageLoader]  succeeded load page: http://minecraft-mod.su/launcher/update/lch/index.html during 0
+2020-04-07 02:54:54,661 JavaFX Application Thread [Browser@1115154313] Loaded successfully: "http://minecraft-mod.su/launcher/update/lch/index.html"
+2020-04-07 02:54:54,693 JavaFX Application Thread [Browser] add listens into server_choose
+2020-04-07 02:54:54,694 JavaFX Application Thread [DEBUG] -----  JavaFX Application Thread was ended after inited of runLater during 0 seconds
+2020-04-07 02:54:54,785 main [Swing] Favicons loaded: 256px, 128px, 96px, 64px, 48px, 32px, 24px, 16px
+2020-04-07 02:54:54,989 main [Loading] LOADING_MANAGERS
+2020-04-07 02:54:55,052 main [LocalVersionList] Base directory: C:\Users\iljaf\AppData\Roaming\.minecraft
+2020-04-07 02:54:55,118 main [Downloader2] Loaded configuration: good
+2020-04-07 02:54:55,249 main [Loading] LOADING_WINDOW
+2020-04-07 02:54:55,293 main [Loading] PREPARING_MAINPANE
+2020-04-07 02:54:55,860 main [Downloader2] Loaded configuration: good
+2020-04-07 02:54:56,003 ExtendedThread#5 [Updater] Requesting an update...
+2020-04-07 02:54:56,005 ExtendedThread#5 [Updater] Requesting from: http://minecraft-mod.su/launcher/update/lch/update.json
+2020-04-07 02:54:56,005 ExtendedThread#5 [Updater] Making request: http://minecraft-mod.su/launcher/update/lch/update.json?version=1.964&client=16f0026b-7004-4a38-a375-deb06117295a
+2020-04-07 02:54:56,035 ExtendedThread#5 [Updater] Request time: 30 ms
+2020-04-07 02:54:56,035 ExtendedThread#5 [Updater] Successfully requested from: http://minecraft-mod.su/launcher/update/lch/update.json
+2020-04-07 02:54:56,036 ExtendedThread#5 [Updater] SearchSucceeded{response=UpdaterResponse{update=Update{version=1.964,requiredAtLeastFor=1.961,description={ru_RU= Исправлена ошибка при установке версий вручную;, Другие исправления..., en_US= Fixed bug when installing version manually, Other fixes..., uk_UA= Виправлена помилка при установці версій вручну;, Інші виправлення...},links={JAR=http://5.9.74.186/TLauncher-1.964.jar, EXE=http://5.9.74.184/TLauncher-1.964.exe},mandatory=false}}}
+2020-04-07 02:54:57,012 main [Loading] POSTINIT_GUI
+2020-04-07 02:54:57,013 main [Frame] Packing main frame...
+2020-04-07 02:54:57,037 main [Frame] Resizing main pane...
+2020-04-07 02:54:57,039 main Updater is already closed. Showing up...
+2020-04-07 02:54:57,046 main Visibility set.
+2020-04-07 02:54:57,049 main [Loading] REFRESHING_INFO
+2020-04-07 02:54:57,049 ExtendedThread#5 [VersionManager] Refreshing versions remotely...
+2020-04-07 02:54:57,051 main [ProfileManager] Refreshing profiles from: C:\Users\iljaf\AppData\Roaming\.minecraft\tlauncher_profiles.json
+2020-04-07 02:54:57,061 main [ElyManager] Refresh allowed: false
+2020-04-07 02:54:57,069 ExtendedThread#12 [ServerListManager] Refreshing servers...
+2020-04-07 02:54:57,071 main Started! (3791 ms.)
+2020-04-07 02:54:57,071 ExtendedThread#12 [REPO][SERVERLIST_REPO] Selecting relevant path...
+2020-04-07 02:54:57,072 main [Loading] SUCCESS
+2020-04-07 02:54:57,073 ExtendedThread#12 [REPO][SERVERLIST_REPO] Attempt #1; timeout: 5000 ms; url: http://minecraft-mod.su/launcher/update/servers.json
+2020-04-07 02:54:57,102 ExtendedThread#12 [REPO][SERVERLIST_REPO] Success: Reached the repo in 27 ms.
+2020-04-07 02:54:57,108 ExtendedThread#12 [ServerListManager] Got in 37 ms
+2020-04-07 02:54:57,109 ExtendedThread#12 [ServerListManager] Servers has been refreshed (38 ms)
+2020-04-07 02:54:57,110 ExtendedThread#12 [ServerListManager] ServerList{[]}
+2020-04-07 02:54:57,134 Thread-10 [DEBUG] -----  [StatisticsSending]  send to server = {"os":"WINDOWS","versionJava":"1.8.0_241","resolution":"1280x1024","clientVersion":1.964,"osVersion":"10.0"}
+2020-04-07 02:54:57,136 Thread-9 [DEBUG] -----  [StatisticsSending]  send to server = "tl_run"
+2020-04-07 02:54:57,205 ExtendedThread#5 [DEBUG] -----  [VersionManager] refreshVersions Tue Apr 07 02:54:57 MSK 2020
+2020-04-07 02:54:57,206 ExtendedThread#5 [DEBUG] -----  before clearCache 
+2020-04-07 02:54:57,227 ExtendedThread#5 [DEBUG] -----  before addVersion
+2020-04-07 02:54:57,232 ExtendedThread#5 [DEBUG] -----  before addVersion
+2020-04-07 02:54:57,237 ExtendedThread#5 [DEBUG] -----  before addVersion
+2020-04-07 02:54:57,240 ExtendedThread#5 [DEBUG] -----  before addVersion
+2020-04-07 02:54:57,242 AsyncObject#13 [REPO][OFFICIAL_VERSION_REPO] Selecting relevant path...
+2020-04-07 02:54:57,243 AsyncObject#14 [REPO][EXTRA_VERSION_REPO] Selecting relevant path...
+2020-04-07 02:54:57,244 AsyncObject#13 [REPO][OFFICIAL_VERSION_REPO] Attempt #1; timeout: 5000 ms; url: http://s3.amazonaws.com/Minecraft.Download/
+2020-04-07 02:54:57,245 AsyncObject#14 [REPO][EXTRA_VERSION_REPO] Attempt #1; timeout: 5000 ms; url: http://repo.tlauncher.org/update/downloads/
+2020-04-07 02:54:57,573 AsyncObject#14 [REPO][EXTRA_VERSION_REPO] Success: Reached the repo in 326 ms.
+2020-04-07 02:54:57,602 AsyncObject#14 [ExtraVersionList] Got in 360 ms
+2020-04-07 02:54:57,741 AsyncObject#13 [REPO][OFFICIAL_VERSION_REPO] Success: Reached the repo in 496 ms.
+2020-04-07 02:54:57,773 AsyncObject#13 [OfficialVersionList] Got in 531 ms
+2020-04-07 02:54:57,774 ExtendedThread#5 [DEBUG] -----  before clearCache 
+2020-04-07 02:54:57,775 ExtendedThread#5 [DEBUG] -----  before refreshVersions
+2020-04-07 02:54:57,775 ExtendedThread#5 [DEBUG] -----  before clearCache 
+2020-04-07 02:54:57,776 ExtendedThread#5 [DEBUG] -----  before refreshVersions
+2020-04-07 02:54:57,776 ExtendedThread#5 [VersionManager] Versions has been refreshed (572 ms)
+2020-04-07 02:54:57,778 ExtendedThread#5 [DEBUG] -----  [VersionManager] getVersions0 Tue Apr 07 02:54:57 MSK 2020
+2020-04-07 02:54:57,779 ExtendedThread#5 [DEBUG] -----  get version()
+2020-04-07 02:54:57,779 ExtendedThread#5 [DEBUG] -----  get version()
+2020-04-07 02:54:57,779 ExtendedThread#5 [DEBUG] -----  get version()
+2020-04-07 02:54:57,813 ExtendedThread#5 [DEBUG] -----  [VersionManager] getVersions0 Tue Apr 07 02:54:57 MSK 2020
+2020-04-07 02:54:57,815 ExtendedThread#5 [DEBUG] -----  get version()
+2020-04-07 02:54:57,815 ExtendedThread#5 [DEBUG] -----  get version()
+2020-04-07 02:54:57,816 ExtendedThread#5 [DEBUG] -----  get version()
+2020-04-07 02:54:57,817 ExtendedThread#5 [ALauncher] init popupMenuManager
+2020-04-07 02:54:57,818 ExtendedThread#5 [DEBUG] -----  [VersionManager] getVersions0 Tue Apr 07 02:54:57 MSK 2020
+2020-04-07 02:54:57,819 ExtendedThread#5 [DEBUG] -----  get version()
+2020-04-07 02:54:57,820 ExtendedThread#5 [DEBUG] -----  get version()
+2020-04-07 02:54:57,820 ExtendedThread#5 [DEBUG] -----  get version()
+2020-04-07 02:54:57,822 ExtendedThread#5 [DEBUG] -----  EssNet
+2020-04-07 02:54:57,939 ExtendedThread#5 [DEBUG] -----  KingstonCraft
+2020-04-07 02:54:57,943 ExtendedThread#5 [DEBUG] -----  fantasticw
+2020-04-07 02:54:57,949 ExtendedThread#5 [DEBUG] -----  NDA Network
+2020-04-07 02:54:57,968 ExtendedThread#5 [DEBUG] -----  BattleCraft
+2020-04-07 02:55:08,405 LoopedThread#6 [LoginForm] Listener: ru.turikhay.tlauncher.ui.login.UsernameField[,0,0,323x21,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=com.sun.java.swing.plaf.windows.XPStyle$XPFillBorder@48db8cac,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=javax.swing.plaf.ColorUIResource[r=0,g=0,b=0],disabledTextColor=javax.swing.plaf.ColorUIResource[r=109,g=109,b=109],editable=true,margin=javax.swing.plaf.InsetsUIResource[top=2,left=2,bottom=2,right=2],selectedTextColor=javax.swing.plaf.ColorUIResource[r=255,g=255,b=255],selectionColor=javax.swing.plaf.ColorUIResource[r=0,g=120,b=215],columns=0,columnWidth=0,command=,horizontalAlignment=LEADING]
+2020-04-07 02:55:08,411 LoopedThread#6 [LoginForm] Listener: ru.turikhay.tlauncher.ui.settings.SettingsPanel[,0,0,500x500,hidden,layout=java.awt.BorderLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777217,maximumSize=,minimumSize=,preferredSize=]
+2020-04-07 02:55:08,413 LoopedThread#6 [LoginForm] Listener: ru.turikhay.tlauncher.ui.login.CheckBoxPanel[,0,45,323x33,layout=java.awt.FlowLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777217,maximumSize=,minimumSize=,preferredSize=]
+2020-04-07 02:55:08,415 LoopedThread#6 [LoginForm] Listener: ru.turikhay.tlauncher.ui.login.VersionComboBox[,0,24,323x21,layout=com.sun.java.swing.plaf.windows.WindowsComboBoxUI$3,alignmentX=0.0,alignmentY=0.0,border=com.sun.java.swing.plaf.windows.XPStyle$XPFillBorder@48db8cac,flags=16777536,maximumSize=,minimumSize=,preferredSize=,isEditable=false,lightWeightPopupEnabled=true,maximumRowCount=8,selectedItemReminder=LatestVersionSyncInfo{id='latest-release', releaseType=release,
+local=CompleteVersion{id='1.12.2', time=Fri Jun 28 10:05:57 MSK 2019, release=Mon Sep 18 11:39:46 MSK 2017, type=release, class=net.minecraft.client.main.Main, minimumVersion=18, assets='1.12', source=local_version_repo, list=net.minecraft.launcher.updater.OfficialVersionList@5be7ead2, libraries=[Library{name='com.mojang:patchy:1.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='oshi-project:oshi-core:1.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.dev.jna:jna:4.4.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.dev.jna:platform:3.4.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.ibm.icu:icu4j-core-mojang:51.2', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.sf.jopt-simple:jopt-simple:5.0.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.paulscode:codecjorbis:20101023', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.paulscode:codecwav:20101023', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.paulscode:libraryjavasound:20101123', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.paulscode:librarylwjglopenal:20100824', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.paulscode:soundsystem:20120107', rules=null, natives=null, extract=null, packed='null'}, Library{name='io.netty:netty-all:4.1.9.Final', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.google.guava:guava:21.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.commons:commons-lang3:3.5', rules=null, natives=null, extract=null, packed='null'}, Library{name='commons-io:commons-io:2.5', rules=null, natives=null, extract=null, packed='null'}, Library{name='commons-codec:commons-codec:1.10', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.jinput:jinput:2.0.5', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.jutils:jutils:1.0.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.google.code.gson:gson:2.8.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:authlib:1.5.25', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:realms:1.10.22', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.commons:commons-compress:1.8.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.httpcomponents:httpclient:4.3.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='commons-logging:commons-logging:1.1.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.httpcomponents:httpcore:4.3.2', rules=null, natives=null, extract=null, packed='null'}, Library{name='it.unimi.dsi:fastutil:7.1.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.logging.log4j:log4j-api:2.8.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.logging.log4j:log4j-core:2.8.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.lwjgl.lwjgl:lwjgl:2.9.4-nightly-20150209', rules=[Rule{action=ALLOW, os=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl.lwjgl:lwjgl_util:2.9.4-nightly-20150209', rules=[Rule{action=ALLOW, os=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl.lwjgl:lwjgl-platform:2.9.4-nightly-20150209', rules=[Rule{action=ALLOW, os=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}}], natives={LINUX=natives-linux, OSX=natives-osx, WINDOWS=natives-windows}, extract=net.minecraft.launcher.versions.ExtractRules@579ad386, packed='null'}, Library{name='org.lwjgl.lwjgl:lwjgl:2.9.2-nightly-20140822', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl.lwjgl:lwjgl_util:2.9.2-nightly-20140822', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl.lwjgl:lwjgl-platform:2.9.2-nightly-20140822', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}}], natives={LINUX=natives-linux, OSX=natives-osx, WINDOWS=natives-windows}, extract=net.minecraft.launcher.versions.ExtractRules@2a582e7a, packed='null'}, Library{name='net.java.jinput:jinput-platform:2.0.5', rules=null, natives={LINUX=natives-linux, OSX=natives-osx, WINDOWS=natives-windows}, extract=net.minecraft.launcher.versions.ExtractRules@36556ef2, packed='null'}, Library{name='com.mojang:text2speech:1.10.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:text2speech:1.10.3', rules=null, natives={LINUX=natives-linux, WINDOWS=natives-windows}, extract=net.minecraft.launcher.versions.ExtractRules@6b940f59, packed='null'}, Library{name='ca.weblite:java-objc-bridge:1.0.0', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}}], natives={OSX=natives-osx}, extract=net.minecraft.launcher.versions.ExtractRules@6a93f74e, packed='null'}, Library{name='ca.weblite:java-objc-bridge:1.0.0', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}}], natives=null, extract=null, packed='null'}]},
+remote=PartialVersion{id='1.12.2', time=Mon Apr 02 10:39:26 MSK 2018, release=Mon Sep 18 11:39:46 MSK 2017, type=release, source=official_version_repo, list=net.minecraft.launcher.updater.OfficialVersionList@5be7ead2}, isInstalled=true, hasRemote=true, isUpToDate=true}]
+2020-04-07 02:55:08,462 LoopedThread#6 [LoginForm] Login was OK. Trying to launch now.
+2020-04-07 02:55:08,839 LoopedThread#6 Cannot parse crash signatures!
+java.lang.NullPointerException
+at ru.turikhay.util.FileUtil.getResource(FileUtil.java:517)
+at ru.turikhay.util.FileUtil.getResource(FileUtil.java:530)
+at ru.turikhay.tlauncher.minecraft.crash.CrashDescriptor.<clinit>(CrashDescriptor.java:102)
+at ru.turikhay.tlauncher.minecraft.launcher.MinecraftLauncher.<init>(MinecraftLauncher.java:208)
+at ru.turikhay.tlauncher.minecraft.launcher.MinecraftLauncher.<init>(MinecraftLauncher.java:219)
+at ru.turikhay.tlauncher.rmo.TLauncher.launch(TLauncher.java:310)
+at ru.turikhay.tlauncher.ui.login.LoginForm.runProcess(LoginForm.java:170)
+at ru.turikhay.tlauncher.ui.login.LoginForm.access$100(LoginForm.java:40)
+at ru.turikhay.tlauncher.ui.login.LoginForm$StartThread.iterateOnce(LoginForm.java:369)
+at ru.turikhay.util.async.LoopedThread.run(LoopedThread.java:40)
+Thread called by: ru.turikhay.util.async.ExtendedThread$ExtendedThreadCaller
+at ru.turikhay.util.async.ExtendedThread.<init>(ExtendedThread.java:15)
+at ru.turikhay.util.async.LoopedThread.<init>(LoopedThread.java:9)
+at ru.turikhay.util.async.LoopedThread.<init>(LoopedThread.java:13)
+at ru.turikhay.tlauncher.ui.login.LoginForm$StartThread.<init>(LoginForm.java:363)
+at ru.turikhay.tlauncher.ui.login.LoginForm.<init>(LoginForm.java:70)
+at ru.turikhay.tlauncher.ui.scenes.DefaultScene.<init>(DefaultScene.java:31)
+at ru.turikhay.tlauncher.ui.MainPane.<init>(MainPane.java:41)
+at ru.turikhay.tlauncher.ui.TLauncherFrame.<init>(TLauncherFrame.java:75)
+at ru.turikhay.tlauncher.rmo.TLauncher.init(TLauncher.java:180)
+at ru.turikhay.tlauncher.rmo.TLauncher.<init>(TLauncher.java:144)
+... and 2 more
+
+2020-04-07 02:55:08,855 LoopedThread#6 [Launcher] Minecraft Launcher [20;8] has initialized
+2020-04-07 02:55:08,855 LoopedThread#6 [Launcher] Running under TLauncher 1.964 for Minecraft-Mod.su 
+2020-04-07 02:55:08,856 LoopedThread#6 [Launcher] Current machine: Windows 10 10.0 x64, Java 1.8.0_241, 16326 MB RAM
+2020-04-07 02:55:08,857 LoopedThread#6 [Launcher] Collecting info...
+2020-04-07 02:55:08,869 LoopedThread#6 [Launcher] Force update: false
+2020-04-07 02:55:08,870 LoopedThread#6 [Launcher] Selected version: latest-release
+2020-04-07 02:55:08,871 LoopedThread#6 [Launcher] Selected account: Account{displayName=null, userid=null, uuid=null, username=ILYXA}
+2020-04-07 02:55:08,872 LoopedThread#6 [Launcher] Version sync info: VersionSyncInfo{id='1.12.2',
+local=CompleteVersion{id='1.12.2', time=Fri Jun 28 10:05:57 MSK 2019, release=Mon Sep 18 11:39:46 MSK 2017, type=release, class=net.minecraft.client.main.Main, minimumVersion=18, assets='1.12', source=local_version_repo, list=net.minecraft.launcher.updater.OfficialVersionList@5be7ead2, libraries=[Library{name='com.mojang:patchy:1.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='oshi-project:oshi-core:1.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.dev.jna:jna:4.4.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.dev.jna:platform:3.4.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.ibm.icu:icu4j-core-mojang:51.2', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.sf.jopt-simple:jopt-simple:5.0.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.paulscode:codecjorbis:20101023', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.paulscode:codecwav:20101023', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.paulscode:libraryjavasound:20101123', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.paulscode:librarylwjglopenal:20100824', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.paulscode:soundsystem:20120107', rules=null, natives=null, extract=null, packed='null'}, Library{name='io.netty:netty-all:4.1.9.Final', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.google.guava:guava:21.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.commons:commons-lang3:3.5', rules=null, natives=null, extract=null, packed='null'}, Library{name='commons-io:commons-io:2.5', rules=null, natives=null, extract=null, packed='null'}, Library{name='commons-codec:commons-codec:1.10', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.jinput:jinput:2.0.5', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.jutils:jutils:1.0.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.google.code.gson:gson:2.8.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:authlib:1.5.25', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:realms:1.10.22', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.commons:commons-compress:1.8.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.httpcomponents:httpclient:4.3.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='commons-logging:commons-logging:1.1.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.httpcomponents:httpcore:4.3.2', rules=null, natives=null, extract=null, packed='null'}, Library{name='it.unimi.dsi:fastutil:7.1.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.logging.log4j:log4j-api:2.8.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.logging.log4j:log4j-core:2.8.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.lwjgl.lwjgl:lwjgl:2.9.4-nightly-20150209', rules=[Rule{action=ALLOW, os=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl.lwjgl:lwjgl_util:2.9.4-nightly-20150209', rules=[Rule{action=ALLOW, os=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl.lwjgl:lwjgl-platform:2.9.4-nightly-20150209', rules=[Rule{action=ALLOW, os=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}}], natives={LINUX=natives-linux, OSX=natives-osx, WINDOWS=natives-windows}, extract=net.minecraft.launcher.versions.ExtractRules@579ad386, packed='null'}, Library{name='org.lwjgl.lwjgl:lwjgl:2.9.2-nightly-20140822', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl.lwjgl:lwjgl_util:2.9.2-nightly-20140822', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl.lwjgl:lwjgl-platform:2.9.2-nightly-20140822', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}}], natives={LINUX=natives-linux, OSX=natives-osx, WINDOWS=natives-windows}, extract=net.minecraft.launcher.versions.ExtractRules@2a582e7a, packed='null'}, Library{name='net.java.jinput:jinput-platform:2.0.5', rules=null, natives={LINUX=natives-linux, OSX=natives-osx, WINDOWS=natives-windows}, extract=net.minecraft.launcher.versions.ExtractRules@36556ef2, packed='null'}, Library{name='com.mojang:text2speech:1.10.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:text2speech:1.10.3', rules=null, natives={LINUX=natives-linux, WINDOWS=natives-windows}, extract=net.minecraft.launcher.versions.ExtractRules@6b940f59, packed='null'}, Library{name='ca.weblite:java-objc-bridge:1.0.0', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}}], natives={OSX=natives-osx}, extract=net.minecraft.launcher.versions.ExtractRules@6a93f74e, packed='null'}, Library{name='ca.weblite:java-objc-bridge:1.0.0', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}}], natives=null, extract=null, packed='null'}]},
+remote=PartialVersion{id='1.12.2', time=Mon Apr 02 10:39:26 MSK 2018, release=Mon Sep 18 11:39:46 MSK 2017, type=release, source=official_version_repo, list=net.minecraft.launcher.updater.OfficialVersionList@5be7ead2}, isInstalled=true, hasRemote=true, isUpToDate=true}
+2020-04-07 02:55:08,918 LoopedThread#6 [Launcher] Java path: C:\Program Files\Java\jre1.8.0_241\bin\javaw.exe
+2020-04-07 02:55:08,921 LoopedThread#6 [Launcher] Checking conditions...
+2020-04-07 02:55:08,930 LoopedThread#6 [Launcher] Comparing assets...
+2020-04-07 02:55:08,931 LoopedThread#6 [AssetsManager] Checking resources...
+2020-04-07 02:55:08,931 LoopedThread#6 [AssetsManager] Reading indexes from file C:\Users\iljaf\AppData\Roaming\.minecraft\assets\indexes\1.12.json
+2020-04-07 02:55:08,950 LoopedThread#6 [AssetsManager] Fast comparing: true
+2020-04-07 02:55:09,236 LoopedThread#6 [Launcher] Delta time to compare assets: 304 ms.
+2020-04-07 02:55:09,236 LoopedThread#6 [DEBUG] -----  [VersionManager] downloadVersion Tue Apr 07 02:55:09 MSK 2020
+2020-04-07 02:55:09,247 LoopedThread#6 [VersionManager] Required for version 1.12.2: []
+2020-04-07 02:55:09,248 LoopedThread#6 [DEBUG] -----  [VersionManager] getLocalList Tue Apr 07 02:55:09 MSK 2020
+2020-04-07 02:55:09,249 LoopedThread#6 [DEBUG] -----  [VersionManager] getLocalList Tue Apr 07 02:55:09 MSK 2020
+2020-04-07 02:55:09,259 LoopedThread#6 [Launcher] Unpacking natives...
+2020-04-07 02:55:09,268 LoopedThread#6 [Launcher] Constructing process...
+2020-04-07 02:55:09,269 LoopedThread#6 [Launcher] Constructing classpath...
+2020-04-07 02:55:09,276 LoopedThread#6 [Launcher] Half command (characters are not escaped):
+C:\Program Files\Java\jre1.8.0_241\bin\javaw.exe -Xmx1024M -Djava.library.path=C:\Users\iljaf\AppData\Roaming\.minecraft\versions\1.12.2\natives -cp C:\Users\iljaf\AppData\Roaming\.minecraft\libraries\com\mojang\patchy\1.1\patchy-1.1.jar;C:\Users\iljaf\AppData\Roaming\.minecraft\libraries\oshi-project\oshi-core\1.1\oshi-core-1.1.jar;C:\Users\iljaf\AppData\Roaming\.minecraft\libraries\net\java\dev\jna\jna\4.4.0\jna-4.4.0.jar;C:\Users\iljaf\AppData\Roaming\.minecraft\libraries\net\java\dev\jna\platform\3.4.0\platform-3.4.0.jar;C:\Users\iljaf\AppData\Roaming\.minecraft\libraries\com\ibm\icu\icu4j-core-mojang\51.2\icu4j-core-mojang-51.2.jar;C:\Users\iljaf\AppData\Roaming\.minecraft\libraries\net\sf\jopt-simple\jopt-simple\5.0.3\jopt-simple-5.0.3.jar;C:\Users\iljaf\AppData\Roaming\.minecraft\libraries\com\paulscode\codecjorbis\20101023\codecjorbis-20101023.jar;C:\Users\iljaf\AppData\Roaming\.minecraft\libraries\com\paulscode\codecwav\20101023\codecwav-20101023.jar;C:\Users\iljaf\AppData\Roaming\.minecraft\libraries\com\paulscode\libraryjavasound\20101123\libraryjavasound-20101123.jar;C:\Users\iljaf\AppData\Roaming\.minecraft\libraries\com\paulscode\librarylwjglopenal\20100824\librarylwjglopenal-20100824.jar;C:\Users\iljaf\AppData\Roaming\.minecraft\libraries\com\paulscode\soundsystem\20120107\soundsystem-20120107.jar;C:\Users\iljaf\AppData\Roaming\.minecraft\libraries\io\netty\netty-all\4.1.9.Final\netty-all-4.1.9.Final.jar;C:\Users\iljaf\AppData\Roaming\.minecraft\libraries\com\google\guava\guava\21.0\guava-21.0.jar;C:\Users\iljaf\AppData\Roaming\.minecraft\libraries\org\apache\commons\commons-lang3\3.5\commons-lang3-3.5.jar;C:\Users\iljaf\AppData\Roaming\.minecraft\libraries\commons-io\commons-io\2.5\commons-io-2.5.jar;C:\Users\iljaf\AppData\Roaming\.minecraft\libraries\commons-codec\commons-codec\1.10\commons-codec-1.10.jar;C:\Users\iljaf\AppData\Roaming\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar;C:\Users\iljaf\AppData\Roaming\.minecraft\libraries\net\java\jutils\jutils\1.0.0\jutils-1.0.0.jar;C:\Users\iljaf\AppData\Roaming\.minecraft\libraries\com\google\code\gson\gson\2.8.0\gson-2.8.0.jar;C:\Users\iljaf\AppData\Roaming\.minecraft\libraries\com\mojang\authlib\1.5.25\authlib-1.5.25.jar;C:\Users\iljaf\AppData\Roaming\.minecraft\libraries\com\mojang\realms\1.10.22\realms-1.10.22.jar;C:\Users\iljaf\AppData\Roaming\.minecraft\libraries\org\apache\commons\commons-compress\1.8.1\commons-compress-1.8.1.jar;C:\Users\iljaf\AppData\Roaming\.minecraft\libraries\org\apache\httpcomponents\httpclient\4.3.3\httpclient-4.3.3.jar;C:\Users\iljaf\AppData\Roaming\.minecraft\libraries\commons-logging\commons-logging\1.1.3\commons-logging-1.1.3.jar;C:\Users\iljaf\AppData\Roaming\.minecraft\libraries\org\apache\httpcomponents\httpcore\4.3.2\httpcore-4.3.2.jar;C:\Users\iljaf\AppData\Roaming\.minecraft\libraries\it\unimi\dsi\fastutil\7.1.0\fastutil-7.1.0.jar;C:\Users\iljaf\AppData\Roaming\.minecraft\libraries\org\apache\logging\log4j\log4j-api\2.8.1\log4j-api-2.8.1.jar;C:\Users\iljaf\AppData\Roaming\.minecraft\libraries\org\apache\logging\log4j\log4j-core\2.8.1\log4j-core-2.8.1.jar;C:\Users\iljaf\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl\lwjgl\2.9.4-nightly-20150209\lwjgl-2.9.4-nightly-20150209.jar;C:\Users\iljaf\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl\lwjgl_util\2.9.4-nightly-20150209\lwjgl_util-2.9.4-nightly-20150209.jar;C:\Users\iljaf\AppData\Roaming\.minecraft\libraries\com\mojang\text2speech\1.10.3\text2speech-1.10.3.jar;C:\Users\iljaf\AppData\Roaming\.minecraft\versions\1.12.2\1.12.2.jar -Dfml.ignoreInvalidMinecraftCertificates=true -Dfml.ignorePatchDiscrepancies=true -XX:+UseConcMarkSweepGC -XX:+CMSIncrementalMode -XX:-UseAdaptiveSizePolicy -Xmn128M net.minecraft.client.main.Main
+2020-04-07 02:55:09,304 LoopedThread#6 [Launcher] Getting Minecraft arguments...
+2020-04-07 02:55:09,305 LoopedThread#6 [ServerListManager] Reconstructing...
+2020-04-07 02:55:09,305 LoopedThread#6 [ServerListManager] Loading from file...
+2020-04-07 02:55:09,312 LoopedThread#6 [Launcher] Launching Minecraft...
+2020-04-07 02:55:09,317 LoopedThread#6 I'm hiding!
+2020-04-07 02:55:09,320 LoopedThread#6 [Launcher] Starting Minecraft latest-release...
+2020-04-07 02:55:09,321 LoopedThread#6 [Launcher] Launching in: C:\Users\iljaf\AppData\Roaming\.minecraft
+2020-04-07 02:55:09,345 LoopedThread#6 [Launcher] Processing post-launch actions. Assist launch: true
+2020-04-07 02:55:09,374 Thread-22 [DEBUG] -----  [StatisticsSending]  send to server = {"gameVersion":"1.12.2"}
+2020-04-07 02:55:10,630 Thread-23 ===============================================================================================
+2020-04-07 02:55:10,632 Thread-23 > [02:55:10] [Client thread/INFO]: Setting user: ILYXA
+2020-04-07 02:55:11,663 Thread-23 > [02:55:11] [Client thread/WARN]: Skipping bad option: lastServer:
+2020-04-07 02:55:11,671 Thread-23 > [02:55:11] [Client thread/INFO]: LWJGL Version: 2.9.4
+2020-04-07 02:55:12,321 Thread-23 > [02:55:12] [Client thread/INFO]: Reloading ResourceManager: Default
+2020-04-07 02:55:12,963 Thread-23 > [02:55:12] [Sound Library Loader/INFO]: Starting up SoundSystem...
+2020-04-07 02:55:13,177 Thread-23 > [02:55:13] [Thread-3/INFO]: Initializing LWJGL OpenAL
+2020-04-07 02:55:13,178 Thread-23 > [02:55:13] [Thread-3/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+2020-04-07 02:55:13,213 Thread-23 > [02:55:13] [Thread-3/INFO]: OpenAL initialized.
+2020-04-07 02:55:13,574 Thread-23 > [02:55:13] [Sound Library Loader/INFO]: Sound engine started
+2020-04-07 02:55:16,643 Thread-23 > [02:55:16] [Client thread/INFO]: Created: 1024x512 textures-atlas
+2020-04-07 02:55:17,896 Thread-23 > [02:55:17] [Client thread/INFO]: Narrator library for x64 successfully loaded
+2020-04-07 02:55:20,340 Thread-23 > [02:55:20] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+2020-04-07 02:55:58,785 Thread-23 > [02:55:58] [Client thread/INFO]: Stopping!
+2020-04-07 02:55:58,785 Thread-23 > [02:55:58] [Client thread/INFO]: SoundSystem shutting down...
+2020-04-07 02:55:58,995 Thread-23 > [02:55:58] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+2020-04-07 02:55:59,411 Thread-23 > Java HotSpot(TM) 64-Bit Server VM warning: Using incremental CMS is deprecated and will likely be removed in a future release
+2020-04-07 02:55:59,440 Thread-23 Here I am!
+2020-04-07 02:55:59,478 Thread-23 [VersionManager] Refreshing versions locally...
+2020-04-07 02:55:59,479 Thread-23 [DEBUG] -----  [VersionManager] refreshVersions Tue Apr 07 02:55:59 MSK 2020
+2020-04-07 02:55:59,480 Thread-23 [DEBUG] -----  before clearCache 
+2020-04-07 02:55:59,483 Thread-23 [DEBUG] -----  before addVersion
+2020-04-07 02:55:59,486 Thread-23 [DEBUG] -----  before addVersion
+2020-04-07 02:55:59,491 Thread-23 [DEBUG] -----  before addVersion
+2020-04-07 02:55:59,494 Thread-23 [DEBUG] -----  before addVersion
+2020-04-07 02:55:59,495 Thread-23 [VersionManager] Versions has been refreshed (16 ms)
+2020-04-07 02:55:59,496 Thread-23 [DEBUG] -----  [VersionManager] getVersions0 Tue Apr 07 02:55:59 MSK 2020
+2020-04-07 02:55:59,497 Thread-23 [DEBUG] -----  get version()
+2020-04-07 02:55:59,498 Thread-23 [DEBUG] -----  get version()
+2020-04-07 02:55:59,499 Thread-23 [DEBUG] -----  get version()
+2020-04-07 02:55:59,515 Thread-23 [DEBUG] -----  [VersionManager] getVersions0 Tue Apr 07 02:55:59 MSK 2020
+2020-04-07 02:55:59,516 Thread-23 [DEBUG] -----  get version()
+2020-04-07 02:55:59,517 Thread-23 [DEBUG] -----  get version()
+2020-04-07 02:55:59,517 Thread-23 [DEBUG] -----  get version()
+2020-04-07 02:55:59,518 LoopedThread#6 [Launcher] Launcher exited.
+2020-04-07 02:55:59,519 Thread-23 [Launcher] Minecraft closed with exit code: 0
+2020-04-07 02:56:01,601 AWT-EventQueue-0 Good bye!
